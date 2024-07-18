@@ -1,0 +1,4564 @@
+Module Phasing Descriptive Pre-Requisite
+out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Code/
+kode Modulekode Naam Vak(ke)
+Financial Accounting (Special) / Finansiële Rekeningkunde (Spesiaal)
+Financial Accounting
+(Special) – Basic
+Concepts, Accounting
+Cycle and Accounting
+Systems/ Faculty of
+PC
+Economic &
+ACCS111 RekF ein na inn gsi kë ule n de 16 VC Management
+Sciences
+(Spesiaal) – Basiese
+Konsepte,
+Rekeningkundige Siklus
+en Rekeningkundige
+Stelsels
+Financial Accounting
+(Special) – Bank
+Reconciliation,
+Elementary Financial
+Reporting and Analysis
+and Interpretation of
+Elementary Financial
+Statements/ Faculty of
+PC Economic &
+ACCS121 Finansiële ACCS111 (40%) 16 VC Management
+Rekeningkunde Sciences
+(Spesiaal) –
+Bankrekonsiliasies,
+Elementêre Finansiële
+Verslagdoening,
+Elementêre Ontleding
+en Vertolking van
+Finansiële State
+Financial Accounting Faculty of
+Special/
+Economic &
+ACFS111 16 VC
+Finansiële Management
+Rekeningkunde Spesiaal Sciences
+Financial Accounting
+Faculty of
+Special/
+Economic &
+ACFS121 ACFS111 (40%) 16 VC
+Finansiële Management
+Rekeningkunde Spesiaal Sciences
+54Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+Introduction to
+Natural and
+AECM111 Agricultural 12 MC
+Agricultural
+Economics
+Sciences
+Faculty of
+Land Reform and
+Natural and
+AECM221 Agricultural 8 MC
+Agricultural
+Development
+Sciences
+Faculty of
+Natural and
+AECM223 Farm Accounting 8 MC
+Agricultural
+Sciences
+Faculty of
+Agricultural Micro- Natural and
+AECM311 AECM111 16 MC
+Economics Agricultural
+Sciences
+Faculty of
+AECM312
+International Natural and
+(Replaced by AECM312 AECM111 8 MC
+Agricultural Trade Agricultural
+AECM327)
+Sciences
+Faculty of
+Agricultural Statistics Natural and
+AECM313 AECM111 16 MC
+for Research I Agricultural
+Sciences
+Faculty of
+Farm Management Natural and
+AECM314 AECM111 8 MC
+and Accounting Agricultural
+Sciences
+Faculty of
+Natural and
+AECM315 Food Security Analysis AECM111 8 MC
+Agricultural
+Sciences
+Faculty of
+Agricultural Natural and
+AECM316 16 MC
+Production Economics Agricultural
+Sciences
+Faculty of
+Land Resource and
+Natural and
+AECM321 Environmental AECM111 16 MC
+Agricultural
+Economics
+Sciences
+Faculty of
+AECM322 AECM111
+Agricultural Natural and
+(Replaced by AECM322 & 16 MC
+Production Economics Agricultural
+AECM316) AECM311 (40%)
+Sciences
+Faculty of
+Natural and
+AECM323 Agricultural Marketing AECM314 (40%) 8 MC
+Agricultural
+Sciences
+55Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+AECM111
+Agricultural Macro- Natural and
+AECM325 & 8 MC
+Economics Agricultural
+AECM311 (40%)
+Sciences
+Faculty of
+Natural and
+AECM326 Agricultural Finance AECM314 (40%) 8 MC
+Agricultural
+Sciences
+Faculty of
+International Natural and
+AECM327 8 MC
+Agricultural Trade Agricultural
+Sciences
+Faculty of
+Agricultural Project
+Natural and
+AECM411 Appraisal and AECM314 8 MC
+Agricultural
+Management
+Sciences
+Faculty of
+Research Project and Natural and
+AECM412 16 MC
+Seminar I Agricultural
+Sciences
+Faculty of
+Quantitative Methods AECM311
+Natural and
+AECM413 in Agricultural & 16 MC
+Agricultural
+Economics AECM325
+Sciences
+Faculty of
+Agricultural Statistics Natural and
+AECM414 AECM313 16 MC
+for Research II Agricultural
+Sciences
+Faculty of
+Agribusiness Natural and
+AECM415 AECM314 16 MC
+Management Agricultural
+Sciences
+Faculty of
+Farm Planning and Natural and
+AECM421 AECM314 8 MC
+Linear Programming Agricultural
+Sciences
+Faculty of
+Agricultural Policy Natural and
+AECM422 16 MC
+Analysis Agricultural
+Sciences
+Faculty of
+AECM423
+Natural and
+(Replaced by AECM423 Agricultural Finance 8 MC
+Agricultural
+AECM326)
+Sciences
+Faculty of
+Agriculture and AECM221
+Natural and
+AECM424 AECM424 Economic & 8 MC
+Agricultural
+Development AECM311
+Sciences
+56Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+Research Project and Natural and
+AECM425 16 MC
+Seminar II Agricultural
+Sciences
+Farm Record Keeping
+Faculty of
+and Finance/ Economic &
+AECP121 12 PC
+Plaasrekordhouding Management
+en Finansies Sciences
+Farm management Faculty of
+and Planning/ Economic &
+AECP211 16 PC
+Landboubestuur en Management
+Beplanning Sciences
+Agricultural Faculty of
+AECP223 Marketing/ 16 PC Economic &
+Management
+Landboubemarking Sciences
+Agribusiness Faculty of
+AECP311 Management/ 16 PC Economic &
+Management
+Agri-besigheidbestuur Sciences
+Land resource and
+Environmental Faculty of
+AECP321 Economics/ 16 PC Economic &
+Management
+Hulpbron-en Sciences
+Omgewingsekonomie
+Agricultural
+Production Faculty of
+AECP322 Economics/ 16 PC Economic &
+Management
+Landbou Produksie Sciences
+Ekonomie
+Faculty of
+Agricultural policy Economic &
+AECP611 and development 16 PC Management
+Sciences
+Agricultural Faculty of
+Marketing / Economic &
+AECP612 16 PC
+Management
+Landbou Bemarking
+Sciences
+Advanced production
+economics/ Faculty of
+AECP621 Gevorderde Produksie 16 PC Economic &
+Ekonomie Management
+Sciences
+Agricultural Finance/ Faculty of
+Landbou Finansiering Economic &
+AECP622 16 PC
+Management
+Sciences
+57Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+Introduction to
+Natural and
+AEDM111 Agricultural 12 MC
+Agricultural
+Economics
+Sciences
+Faculty of
+Farm Management Natural and
+AEDM314 and Accounting AEDM111 8 MC Agricultural
+Sciences
+Faculty of
+Fundamentals of Natural and
+AEXM211 Agricultural Extension 16 MC Agricultural
+Sciences
+Faculty of
+Communication and
+AEXM212 Agricultural Technology AEXM211 8 MC Natural and
+Transfer Agricultural
+Sciences
+Faculty of
+Agricultural Extension Natural and
+AEXM222 8 MC
+for Development Agricultural
+Sciences
+Faculty of
+AEXM211
+Agricultural Rural Natural and
+AEXM324 & 8 MC
+Sociology Agricultural
+AEXM222
+Sciences
+Faculty of
+Fundamentals of Natural and
+AXDM211 16 MC
+Agricultural Extension Agricultural
+Sciences
+Faculty of
+Agricultural Extension Natural and
+AXDM311 8 MC
+for Development Agricultural
+Sciences
+Academic Literacy/ Akademiese Geletterdheid
+Introduction to
+Academic Literacy/ MC
+ALDE111/ AGLE111/ Faculty of
+ALDA111 AGLA111 Inleiding tot 12 PC Humanities
+Akademiese VC
+Geletterdheid
+Academic Literacy/ ALDE111 MC
+ALDE122/ AGLE122/ Faculty of
+ALDA122 AGLA122 Akademiese OR / OF 12 PC Humanities
+Geletterdheid ALDA111 (40%) VC
+Animal Health & Animal Science
+AHBM321
+Faculty of
+Phasing out
+Research Natural and
+30/12/24 AHBM321 Methodology AHPM312 (40%) 8 MC Agricultural
+(Replaced by
+Sciences
+AHDR327)
+58Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Animal Health & Animal Science
+AHDM316
+Faculty of
+Phasing out
+AHDM316 AHVM111, 112, 122, Natural and
+30/12/23 Meat Inspection I 8 MC
+121 213, 221, 212, 225 Agricultural
+Only Pipeline
+Sciences
+Students
+AHDM317
+Faculty of
+Phasing out
+AHDM317 Veterinary AHVM111, 122, 121, Natural and
+30/12/23 Jurisprudence 213, 221, 212, 225 8 MC Agricultural
+Only Pipeline
+Sciences
+Students
+AHDM326 Faculty of
+Phasing out AHDM326 Meat Inspection II 8 MC Natural and
+Only Pipeline Agricultural
+Students Sciences
+AHDM327 Faculty of
+Phasing out AHDM327 Veterinary Natural and
+8 MC
+Only Pipeline Jurisprudence Agricultural
+Students Sciences
+Faculty of
+Animal Health,
+Natural and
+AHDR111 Handling and Welfare 8 MC
+Agricultural
+I (Degree)
+Sciences
+Faculty of
+Animal Health,
+Natural and
+AHDR121 Handling and Welfare AHDR111(40%) 8 MC
+Agricultural
+II (Degree)
+Sciences
+Faculty of
+Anatomy and
+Natural and
+AHDR211 Physiology I: Animal 12 MC
+Agricultural
+Health (Degree)
+Sciences
+Faculty of
+Ethno veterinary Natural and
+AHDR212 8 MC
+Medicine (Degree) Agricultural
+Sciences
+Faculty of
+Fundamentals of Natural and
+AHDR213 8 MC
+Aquaculture (Degree) Agricultural
+Sciences
+Faculty of
+Anatomy and
+Natural and
+AHDR221 Physiology II: Animal AHDR211(40%) 12 MC
+Agricultural
+Health (Degree)
+Sciences
+Microbiology and Faculty of
+Immunology for Natural and
+AHDR222 12 MC
+Animal Health Agricultural
+(Degree) Sciences
+Faculty of
+Diseases I: Bacterial Natural and
+AHDR311 AHDR222 8 MC
+Diseases (Degree) Agricultural
+Sciences
+59Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Animal Health & Animal Science
+Faculty of
+Diseases II: Metabolic
+Natural and
+AHDR312 and Fungal Diseases AHDR222 8 MC
+Agricultural
+(Degree)
+Sciences
+Faculty of
+Epidemiology for
+Natural and
+AHDR313 Animal Health MTHS114 8 MC
+Agricultural
+(Degree)
+Sciences
+Faculty of
+Pathology I: General Natural and
+AHDR314 AHDR211 &221 8 MC
+Pathology (Degree) Agricultural
+Sciences
+Faculty of
+Obstetrics and Genital AHDR211 &221, Natural and
+AHDR315 8 MC
+Diseases (Degree) AHDR222 Agricultural
+Sciences
+Faculty of
+Natural and
+AHDR316 Parasitology (Degree) 8 MC
+Agricultural
+Sciences
+Faculty of
+Introduction to Game AHDR211 &221, Natural and
+AHDR317 8 MC
+and Wildlife (Degree) AHDR222 Agricultural
+Sciences
+Faculty of
+Diseases III: Viral AHDR311, AHDR312 Natural and
+AHDR321 8 MC
+Diseases (Degree) (40%all) Agricultural
+Sciences
+Faculty of
+Meat Inspection I AHDR311, AHDR312, Natural and
+AHDR322 8 MC
+(Degree) AHDR316 (40%all) Agricultural
+Sciences
+Faculty of
+AHDR211, AHDR221,
+Pharmacology and Natural and
+AHDR323 AHDR311(40%), 12 MC
+Toxicology (Degree) Agricultural
+AHDR312 (40%)
+Sciences
+AHDR211, AHDR221, Faculty of
+Pathology II: Organ AHDR311(40%), Natural and
+AHDR324 8 MC
+Pathology (Degree) AHDR312 (40%), Agricultural
+AHDR314 (40%) Sciences
+60Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Animal Health & Animal Science
+Faculty of
+Clinical Laboratory AHDR311, AHDR312, Natural and
+AHDR325 8 MC
+Techniques (Degree) AHDR316 (40%all) Agricultural
+Sciences
+Faculty of
+Veterinary AHDR211, AHDR221,
+AHDR326 Natural and
+Jurisprudence AHDR311 (40%), 8 MC
+Agricultural
+(Degree) AHDR312 (40%)
+Sciences
+Faculty of
+Research
+Natural and
+AHDR327 Methodology 8 MC
+Agricultural
+(Degree)
+Sciences
+May not continue with the 4th year if all the previous years’ modules have not been passed.
+Faculty of
+Scheduled Diseases,
+AHDR311, AHDR312, Natural and
+AHDR412 Quarantine and 8 MC
+AHDR316 Agricultural
+Biosecurity (Degree)
+Sciences
+Faculty of
+Environmental and
+AHDR311, AHDR312, Natural and
+AHDR413 Public Health for 8 MC
+AHDR316 Agricultural
+Animal Health
+Sciences
+(Degree)
+Faculty of
+Meat Inspection II AHDR311, AHDR312, Natural and
+AHDR421 8 MC
+(Degree) AHDR316, AHDR322 Agricultural
+Sciences
+Faculty of
+Management and
+AHDR311, AHDR312, Natural and
+AHDR422 Entrepreneurship 8 MC
+AHDR316, AHDR326 Agricultural
+(Degree)
+Sciences
+Faculty of
+WIL I: Companion AHDR311, AHDR312,
+Natural and
+AHDR471 Animal Medicine and AHDR316, AHDR321, 16 MC
+Agricultural
+Surgery (Degree) AHDR323
+Sciences
+WIL II: Production Faculty of
+AHDR311, AHDR312,
+Animal Clinical Care Natural and
+AHDR472 AHDR316, AHDR321, 32 MC
+for Animal Health Agricultural
+AHDR323
+(Degree) Sciences
+Faculty of
+WIL III: Pathology
+AHDR314, AHDR324, Natural and
+AHDR473 and Laboratory 16 MC
+AHDR325 Agricultural
+Practice (Degree)
+Sciences
+WIL IV: Applied Faculty of
+Biosecurity for AHDR311, AHDR312, Natural and
+AHDR474 16 MC
+Animal Health AHDR316, AHDR321 Agricultural
+(Degree) Sciences
+Faculty of
+Research Project AHDR327 Natural and
+AHDR476 16 MC
+(Degree) Agricultural
+Sciences
+61Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/
+Module Code/ MC
+Module- Beskrywende Voorvereiste Kr
+Modulekode
+kode Naam Vak(ke)
+Animal Health & Animal Science
+Faculty of
+Animal Health,
+Natural and
+AHLH111 Handling and 8 MC
+Agricultural
+Welfare I (Diploma)
+Sciences
+Faculty of
+Anatomy and Natural and
+AHLH112 Physiology I: Animal 12 MC Agricultural
+Health (Diploma) Sciences
+Faculty of
+Animal Health, Natural and
+AHLH121 Handling and AHLH111(40%) 8 MC Agricultural
+Welfare II (Diploma) Sciences
+Faculty of
+Anatomy and
+Natural and
+AHLH122 Physiology II: Animal AHLH112(40%) 12 MC
+Agricultural
+Health (Diploma)
+Sciences
+Basic Microbiology Faculty of
+and Immunology for Natural and
+AHLH123 12 MC
+Animal Health Agricultural
+(Diploma) Sciences
+Faculty of
+Diseases I: Bacterial Natural and
+AHLH124 AHLH112(40%) 8 MC
+Diseases (Diploma) Agricultural
+Sciences
+Faculty of
+Diseases II: Viral and
+AHLH112, AHLH122, Natural and
+AHLH211 Fungal Diseases 8 MC
+AHLH124 Agricultural
+(Diploma)
+Sciences
+Faculty of
+Parasitology Natural and
+AHLH212 AHLH112, AHLH122 8 MC
+(Diploma) Agricultural
+Sciences
+Faculty of
+Pathology I: General Natural and
+AHLH213 AHLH112, AHLH122 8 MC
+Pathology (Diploma) Agricultural
+Sciences
+Faculty of
+AHLH112, AHLH122,
+Diseases III: Viral Natural and
+AHLH221 AHLH124, 8 MC
+Diseases (Diploma) Agricultural
+AHLH211(40%)
+Sciences
+Faculty of
+Obstetrics and AHLH112, AHLH122,
+Natural and
+AHLH222 Genital Diseases AHLH124, 8 MC
+Agricultural
+(Diploma) AHLH211(40%)
+Sciences
+62Module Phasing Descriptive Pre-Requisite
+out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Code/
+kode Modulekode Naam Vak(ke)
+Animal Health & Animal Science
+Faculty of
+Pathology II: Organ AHLH112, AHLH122, Natural and
+AHLH223 8 MC
+Pathology (Diploma) AHLH213(40%) Agricultural
+Sciences
+Faculty of
+AHLH112, AHLH122,
+Pharmacology and Natural and
+AHLH224 AHLH124, 8 MC
+Toxicology (Diploma) Agricultural
+AHLH211(40%)
+Sciences
+Faculty of
+AHLH124,
+Meat Inspection I Natural and
+AHLH225 AHLH211(40%), 8 MC
+(Diploma) Agricultural
+AHLH212(40%)
+Sciences
+Faculty of
+AHLH124,
+Clinical Laboratory Natural and
+AHLH226 AHLH211(40%), 8 MC
+Techniques (Diploma) Agricultural
+AHLH212(40%)
+Sciences
+Faculty of
+AHLH124, AHLH211,
+Epidemiology for Animal Natural and
+AHLH312 AHLH221, AHLH212, 8 MC
+Health (Diploma) Agricultural
+MTHS115
+Sciences
+Faculty of
+Environmental and
+AHLH124, AHLH211, Natural and
+AHLH313 Public Health for Animal 8 MC
+AHLH221, AHLH212 Agricultural
+Health (Diploma)
+Sciences
+Faculty of
+AHLH112, AHLH122,
+AHLH314 Veterinary Jurisprudence Natural and
+AHLH124, AHLH211, 8 MC
+(Diploma) Agricultural
+AHLH221
+Sciences
+Faculty of
+AHLH124, AHLH211,
+Meat Inspection II Natural and
+AHLH321 AHLH221, AHLH212, 8 MC
+(Diploma) Agricultural
+AHLH225
+Sciences
+Faculty of
+Scheduled Diseases,
+AHLH124, AHLH211, Natural and
+AHLH322 Quarantine and 8 MC
+AHLH221, AHLH212 Agricultural
+Biosecurity (Diploma)
+Sciences
+Faculty of
+Management and AHLH124, AHLH211,
+Natural and
+AHLH323 Entrepreneurship AHLH221, AHLH212, 8 MC
+Agricultural
+(Diploma) AHLH314(40%)
+Sciences
+Faculty of
+WIL I: Companion Animal AHLH124, AHLH211,
+Natural and
+AHLH371 Medicine and Surgery AHLH221, AHLH212, 16 MC
+Agricultural
+(Diploma) AHLH224, AHLH226
+Sciences
+Faculty of
+WIL II: Production AHLH 124, AHLH 211,
+Natural and
+AHLH372 Animal Clinical Care for AHLH 221, AHLH 212, 32 MC
+Agricultural
+Animal Health (Diploma) AHLH 224, AHLH 226
+Sciences
+AHLH 124, AHLH 211, Faculty of
+WIL III: Pathology and
+AHLH 221, AHLH 212, Natural and
+AHLH373 Laboratory Practice 16 MC
+AHLH 213, AHLH 223 Agricultural
+(Diploma)
+AHLH 226 Sciences
+63Module Phasing Descriptive Pre-Requisite
+out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Code/
+kode Modulekode Naam Vak(ke)
+Animal Health & Animal Science
+AHLH 124, AHLH 211, Faculty of
+WIL IV: Applied
+AHLH 221, AHLH 212, Natural and
+AHLH374 Biosecurity for Animal 16 MC
+AHLH 312(40%), Agricultural
+Health (Diploma)
+AHLH 314(40%) Sciences
+Faculty of
+Microbiology for Animal Natural and
+AHPM211 AHDR111 16 MC
+Health (Degree) Agricultural
+Sciences
+Faculty of
+Anatomy and Physiology Natural and
+AHPM212 16 MC
+I (Degree) Agricultural
+Sciences
+AHPM213
+Faculty of
+Phasing out
+Natural and
+30/12/24 AHPM213 Veterinary Microbiology 16 MC
+Agricultural
+(Replaced by
+Sciences
+AHDR222)
+AHPM214
+Faculty of
+Phasing out
+AHPM214 Anatomy and Physiology: Natural and
+30/12/24 12 MC
+Animal Health I Agricultural
+(Replaced by
+Sciences
+AHDR211)
+AHPM216
+Faculty of
+Phasing out Animal Welfare,
+AHPM216 Natural and
+30/12/24 Handling and Equipment 12 MC
+Agricultural
+(Replaced by I
+Sciences
+AHDR111)
+Faculty of
+Anatomy and Physiology Natural and
+AHPM221 8 MC
+II (Degree) Agricultural
+Sciences
+AHPM223
+Faculty of
+Phasing out Animal Welfare,
+AHPM223 Natural and
+30/12/24 Handling and Equipment AHPM212 (40%) 12 MC
+Agricultural
+(Replaced by II
+Sciences
+AHDR121)
+AHPM224
+Phasing out Faculty of
+30/12/24 AHPM224 Anatomy and Physiology: Natural and
+12 MC
+(Replaced by Animal Health II Agricultural
+AHDR212 & Sciences
+211)
+Faculty of
+AHPM225 Animal Welfare,
+Natural and
+(Replaced by AHPM225 Handling and Equipment 12 MC
+Agricultural
+AHDR121) II
+Sciences
+AHPM311
+Faculty of
+Phasing out
+Natural and
+30/12/24 AHPM311 Diseases I AHPM211 16 MC
+Agricultural
+(Replaced by
+Sciences
+AHDR311)
+64Module Phasing Descriptive
+out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Code/ Voorvereiste Vak(ke)
+kode Modulekode Naam
+Animal Health & Animal Science
+AHPM313
+Faculty of
+Phasing out
+Obstetrics and Genital Natural and
+30/12/24 AHPM313 AHPM212, 221 16 MC
+Diseases: Animal Health Agricultural
+(Replaced by
+Sciences
+AHDR315)
+AHPM315
+Faculty of
+Phasing out
+AHPM315 Public Health for Animal Natural and
+30/12/24 8 MC
+Health I Agricultural
+(Replaced by
+Sciences
+AHDR413)
+AHPM317
+Faculty of
+Phasing out
+AHPM211, 212, 221, Natural and
+30/12/24 AHPM317 Pathology I 8 MC
+222 Agricultural
+(Replaced by
+Sciences
+AHDR314)
+AHPM318
+Faculty of
+Phasing out
+Introduction to Game Natural and
+30/12/24 AHPM318 AHPM222 12 MC
+and Wildlife Agricultural
+(Replaced by
+Sciences
+AHDR317)
+Faculty of
+AHPM319
+Epidemiology for Animal Natural and
+(Replaced by AHPM319 8 MC
+Health Technicians Agricultural
+AHDR313)
+Sciences
+AHPM321
+Faculty of
+Phasing out
+Natural and
+30/12/24 AHPM321 Diseases II AHPM211 (40%) 16 MC
+Agricultural
+(Replaced by
+Sciences
+AHDR312)
+AHPM322
+Faculty of
+Phasing out
+Parasitology: Animal Natural and
+30/12/24 AHPM322 AHPM311 16 MC
+Health Agricultural
+(Replaced by
+Sciences
+AHDR316)
+AHPM323
+AHPM212, Faculty of
+Phasing out Pharmacology and
+APM221 Natural and
+30/12/24 AHPM323 Toxicology: Animal 16 MC
+& Agricultural
+(Replaced by Health
+AHPM311 (40%) Sciences
+AHDR323)
+AHPM325
+Faculty of
+Phasing out
+Clinical Laboratory Natural and
+30/12/24 AHPM325 AHPM211 8 MC
+Techniques Agricultural
+(Replaced by
+Sciences
+AHDR325)
+65Module Descriptive
+Phasing Pre-Requisite
+Code / out/old Name / Cr/ Campus/ Faculty/
+Subject(s)/
+Module- Module Code/ Beskrywende Kr Kampus Fakulteit
+kode Modulekode Naam
+Voorvereiste Vak(ke)
+Animal Health & Animal Science
+Faculty of
+Livestock Diseases AHPM211 Natural and
+AHPM326 8 MC
+(Degree) (Animal Science) Agricultural
+Sciences
+AHPM327
+Faculty of
+Phasing out
+Veterinary Natural and
+30/12/24 AHPM327 AHPM311 (40%) 8 MC
+Jurisprudence Agricultural
+(Replaced by
+Sciences
+AHDR326)
+AHPM329 AHPM211, 212, 221,
+Faculty of
+Phasing out 222
+Natural and
+30/12/24 AHPM329 Pathology II & 8 MC
+Agricultural
+(Replaced by AHPM313, 317,
+Sciences
+AHDR324) 314 (40%)
+AHPM411 AHPM211, 212, 221,
+Faculty of
+Phasing out 222
+Companion Animal Natural and
+30/12/24 AHPM411 & 16 MC
+Clinical Care I Agricultural
+(Replaced by AHPM313, 323, 314,
+Sciences
+AHDR471) 325
+AHPM412 AHPM211, 212, 221,
+Faculty of
+Phasing out 222
+Production Animal Natural and
+30/12/24 AHPM412 & 16 MC
+Clinical Care I Agricultural
+(Replaced by AHPM313, 323, 314,
+Sciences
+AHDR472) 325
+AHPM415
+Faculty of
+Phasing out
+Research Project and Natural and
+30/12/24 AHPM415 16 MC
+Seminar Agricultural
+(Replaced by
+Sciences
+AHDR475)
+AHPM416 Faculty of
+Only AHPM416 Natural and
+Public Health for AHT II 8 MC
+Pipeline Agricultural
+Students Sciences
+AHPM417 Faculty of
+Only AHPM417 Work Integrated Natural and
+8 MC
+Pipeline Learning Agricultural
+Students Sciences
+AHPM211, 212, 221,
+AHPM421 222
+Faculty of
+Phasing out &
+Companion Animal Natural and
+30/12/24 AHPM421 AHPM313, 323, 314, 16 MC
+Clinical Care II Agricultural
+(Replaced by 325,
+Sciences
+AHDR471) &
+AHPM411 (40%)
+AHPM422 AHPM211, 212, 221,
+Faculty of
+Phasing out 222
+Production Animal Natural and
+30/12/24 AHPM422 & 16 MC
+Clinical Care II Agricultural
+(Replaced by AHPM313, 323, 314,
+Sciences
+AHDR472) 325
+66Module Descriptive
+Phasing out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Code/ Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Animal Health & Animal Science
+AHPM211, 212, 221,
+Faculty of
+AHPM424 222
+Practical Learning and Natural and
+Phasing out AHPM424 & 8 MC
+Experiential Learning II Agricultural
+30/12/24 AHPM313, 323, 314,
+Sciences
+325
+AHPM425
+Faculty of
+Phasing out
+Research Project and Natural and
+30/12/24 AHPM425 AHPM415 (40%) 16 MC
+Seminar Agricultural
+(Replaced by
+Sciences
+AHDR475)
+AHPM426
+Faculty of
+Phasing out AHPM311
+Natural and
+30/12/24 AHPM426 Scheduled Diseases OR / OF 8 MC
+Agricultural
+(Replaced by AHPM321
+Sciences
+AHDR413)
+AHPM427 Faculty of
+Only AHPM427 Work Integrated Natural and
+8 MC
+Pipeline Learning Agricultural
+Students Sciences
+AHVM111
+Faculty of
+Phasing out Anatomy and
+Natural and
+30/12/23 AHVM111 Physiology : Animal 12 MC
+Agricultural
+(Replaced Health I
+Sciences
+by AHLH112)
+AHVM112
+Faculty of
+Phasing out
+Animal Handling and Natural and
+30/12/23 AHVM112 8 MC
+Equipment I Agricultural
+(Replaced
+Sciences
+by AHLH111)
+AHVM121
+Faculty of
+Phasing out
+Basic Microbiology for Natural and
+30/12/23 AHVM121 12 MC
+Animal Health Agricultural
+(Replaced by
+Sciences
+AHLH123)
+AHVM122
+Faculty of
+Phasing out Anatomy and
+Natural and
+30/12/23 AHVM122 Physiology : Animal AHVM111 12 MC
+Agricultural
+(Replaced by Health II
+Sciences
+AHLH122)
+AHVM123
+Faculty of
+Phasing out
+Animal Handling and AHVM111, 112 Natural and
+30/12/23 AHVM123 8 MC
+Equipment II (40%) Agricultural
+(Replaced by
+Sciences
+AHLH121)
+Faculty of
+AHVM211
+Natural and
+(Replaced by AHVM211 Diseases I 16 MC
+Agricultural
+AHLH124)
+Sciences
+67Module Descriptive
+Phasing out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Code/ Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Animal Health & Animal Science
+AHVM212
+Faculty of
+Phasing out AHVM111, 122
+Parasitology for Animal Natural and
+30/12/23 AHVM212 & 8 MC
+Health Agricultural
+(Replaced by AHVM213
+Sciences
+AHLH212)
+Faculty of
+AHVM213
+Natural and
+Phasing out AHVM213 Diseases I AHVM111, 122, 121 12 MC
+Agricultural
+30/12/23
+Sciences
+AHVM214
+Faculty of
+Phasing out
+Natural and
+30/12/23 AHVM214 Pathology I AHVM111, 122, 121 8 MC
+Agricultural
+(Replaced by
+Sciences
+AHLH213)
+AHVM222
+Faculty of
+Phasing out AHVM111, 122
+Obstetrics and Genital Natural and
+30/12/23 AHVM222 & 16 MC
+Diseases: Animal Health Agricultural
+(Replaced by AHVM213 (40%)
+Sciences
+AHLH222)
+AHVM223
+Faculty of
+Phasing out Pharmacology and AHVM111, 122
+Natural and
+30/12/23 AHVM223 Toxicology: Animal & 16 MC
+Agricultural
+(Replaced by Health AHVM213 (40%)
+Sciences
+AHLH224)
+AHVM224
+Faculty of
+Phasing out
+Public Health for Natural and
+30/12/23 AHVM224 8 MC
+Animal Health Agricultural
+(Replaced by
+Sciences
+AHLH313)
+AHVM225
+Faculty of
+Phasing out AHVM111, 122, 121
+Clinical Laboratory Natural and
+30/12/23 AHVM225 & 8 MC
+Techniques Agricultural
+(Replaced by AHVM213, 212 (40%)
+Sciences
+AHLH226)
+AHVM226
+Faculty of
+Phasing out
+Basic Microbiology Natural and
+30/12/23 AHVM226 AHVM121 16 MC
+(Animal Science) Agricultural
+(Replaced by
+Sciences
+AHLH123)
+Faculty of
+AHVM227
+Natural and
+Phasing out AHVM227 Diseases II 12 MC
+Agricultural
+30/12/23
+Sciences
+AHVM228
+Faculty of
+Phasing out AHVM111, 122, 121
+Natural and
+30/12/23 AHVM228 Pathology II & 8 MC
+Agricultural
+(Replaced by AHVM213, 214 (40%)
+Sciences
+AHLH223)
+68Module Descriptive
+Phasing out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Code/ Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Animal Health & Animal Science
+Faculty of
+AHVM316
+Companion Animal Natural and
+Phasing out AHVM316 12 MC
+Clinical Care for AHT I Agricultural
+30/12/23
+Sciences
+AHVM317
+Faculty of
+Phasing out
+Production Animal Natural and
+30/12/23 AHVM317 12 MC
+Clinical Care for AHT I Agricultural
+(Replaced by
+Sciences
+AHLH372)
+AHVM318
+AHVM111, 122, 121 Faculty of
+Phasing out
+& Natural and
+30/12/23 AHVM318 Epidemiology 8 MC
+AHVM213, 221, 212, Agricultural
+(Replaced by
+225 Sciences
+AHLH312)
+AHVM319
+Faculty of
+Phasing out
+Practical Experiential Natural and
+30/12/23 AHVM319 12 MC
+Learning I Agricultural
+(Replaced by
+Sciences
+AHLH321)
+AHVM324
+AHVM111, 122, 121 Faculty of
+Phasing out
+& Natural and
+30/12/23 AHVM324 Scheduled Diseases 8 MC
+AHVM213, 221, 212, Agricultural
+(Replaced by
+225 Sciences
+AHLH322)
+AHVM326 &
+AHVM322
+Faculty of
+Phasing out
+Companion Animal Natural and
+30/12/23 AHVM328 12 MC
+Clinical Care for AHT II Agricultural
+Replaced by
+Sciences
+AHLH371 &
+AHLH323)
+AHVM327
+Faculty of
+Phasing out
+Production Animal Natural and
+30/12/23 AHVM328 12 MC
+Clinical Care for AHT II Agricultural
+(Replaced by
+Sciences
+AHLH372)
+AHVM328
+Faculty of
+Phasing out
+Practical Experiential Natural and
+30/12/23 AHVM328 12 MC
+Learning II Agricultural
+(Replaced by
+Sciences
+AHLH374)
+Faculty of
+Introduction to Animal Natural and
+ANDM121 12 MC
+Science Agricultural
+Sciences
+ANDM122
+Non–Ruminant Faculty of
+Phasing out
+Production (Diploma) Natural and
+(Replaced by ANDM122 8 MC
+[Principles of Non- Agricultural
+ANDM123)
+Ruminant Production] Sciences
+69Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Animal Health & Animal Science
+Faculty of
+Principles of Non- Natural and
+ANDM123 8 MC
+Ruminant Production Agricultural
+Sciences
+Faculty of
+ANDM121
+Natural and
+ANDM211 Animal Nutrition & 16 MC
+Agricultural
+MCHE115
+Sciences
+Faculty of
+Animal Genetics and Natural and
+ANDM212 8 MC
+Breeding Agricultural
+Sciences
+Faculty of
+Ruminant Animal Natural and
+ANDM213 8 MC
+Production Agricultural
+Sciences
+Faculty of
+Small Stock Production Natural and
+ANDM221 ANDM121 16 MC
+and Management Agricultural
+Sciences
+Faculty of
+Beef Production and Natural and
+ANDM223 ANDM121 16 MC
+Management Agricultural
+Sciences
+Faculty of
+ANDM225 ANDM225 Principles of Veld 16 MC Natural and
+Management Agricultural
+(Phased out)
+Sciences
+Faculty of
+Natural and
+ANDM226 Grazing Management 16 MC
+Agricultural
+Sciences
+Faculty of
+Poultry Production and Natural and
+ANDM312 ANDM121 16 MC
+Management Agricultural
+Sciences
+Faculty of
+Dairy Production and Natural and
+ANDM313 ANDM121 16 MC
+Management Agricultural
+Sciences
+Faculty of
+Pig Production and Natural and
+ANDM314 ANDM121 16 MC
+Management Agricultural
+Sciences
+ANDM121 & Faculty of
+Practical Animal ANDM221, 223 & Natural and
+ANDM321 56 MC
+Production ANDM312, 313, Agricultural
+314 (40%) Sciences
+Faculty of
+Introduction to Natural and
+ANSM121 12 MC
+Agricultural Biometry Agricultural
+Sciences
+70Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Animal Health & Animal Science
+Faculty of
+Introduction to Animal Natural and
+ANSM211 16 MC
+Science Agricultural
+Sciences
+Faculty of
+Ruminant Production Natural and
+ANSM214 8 MC
+Science Agricultural
+Sciences
+Faculty of
+Natural and
+ANSM223 Animal Nutrition ANSM 211 16 MC
+Agricultural
+Sciences
+Faculty of
+Non-Ruminant Natural and
+ANSM224 8 MC
+Production (Degree) Agricultural
+Sciences
+Faculty of
+Animal Breeding and Natural and
+ANSM226 12 MC
+Genetics Agricultural
+Sciences
+Faculty of
+Principles of Veld Natural and
+ANSM311 16 MC
+Management Agricultural
+Sciences
+Faculty of
+Applied Agricultural Natural and
+ANSM312 ANSM121 16 MC
+Biometry Agricultural
+Sciences
+Faculty of
+Agricultural Natural and
+ANSM313 8 MC
+Biochemistry Agricultural
+Sciences
+Faculty of
+Physiology of AHPM212
+Natural and
+ANSM314 Reproduction and & 16 MC
+Agricultural
+Growth AHPM221
+Sciences
+Faculty of
+ANSM211
+Applied Ruminant Natural and
+ANSM321 & 16 MC
+Nutrition Agricultural
+ANSM223
+Sciences
+Faculty of
+Planted Pastures and Natural and
+ANSM322 8 MC
+Fodder Crops Agricultural
+Sciences
+Faculty of
+Natural and
+ANSM323 Quantitative Genetics ANSM 226 16 MC
+Agricultural
+Sciences
+71Module Descriptive
+Phasing out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Code/ Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Animal Health & Animal Science
+Faculty of
+Small Ruminant Natural and
+ANSM326 ANSM211 (40%) 12 MC
+Production Science Agricultural
+Sciences
+Faculty of
+Phasing Out
+Applied Mono gastric Natural and
+(Replaced by ANSM411 16 MC
+Nutrition Agricultural
+ANSM416)
+Sciences
+Faculty of
+Phasing Applied Animal Natural and
+ANSM412 ANSM323 16 MC
+Out Breeding Agricultural
+Sciences
+Phasing Faculty of
+Out Research Project and Natural and
+ANSM413 16 MC
+(Replaced by Seminar I Agricultural
+ANSM479) Sciences
+Phasing Faculty of
+Out Large Stock Production Natural and
+ANSM414 8 MC
+(Replaced and Science Agricultural
+by ANSM415) Sciences
+Faculty of
+Beef Production Natural and
+ANSM415 ANSM211 12 MC
+Science Agricultural
+Sciences
+Faculty of
+Applied Non-Ruminant Natural and
+ANSM416 ANSM223 16 MC
+Nutrition Agricultural
+Sciences
+Faculty of
+ANSM421
+ANSM421 Research Project and Natural and
+(Replaced 16 MC
+Seminar I Agricultural
+by ANSM479)
+Sciences
+Faculty of
+Natural and
+ANSM423 Practical Experience 8 MC
+Agricultural
+Sciences
+Faculty of
+Natural and
+Phasing Out ANSM424 Poultry Science 16 MC
+Agricultural
+Sciences
+Faculty of
+Natural and
+ANSM426 Pig Production Science ANSM211 12 MC
+Agricultural
+Sciences
+Faculty of
+Poultry Production Natural and
+ANSM427 ANSM211 12 MC
+Science Agricultural
+Sciences
+Faculty of
+Dairy Production ANSM313 & Natural and
+ANSM428 12 MC
+Sciences ANSM314 Agricultural
+Sciences
+72Module Descriptive
+Phasing out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Code/ Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Animal Health & Animal Science
+Faculty of
+Natural and
+ANSM479 Research Project 32 MC
+Agricultural
+Sciences
+Applied Mathematics / Toegepaste Wiskunde
+Gr12
+Mathematics
+Faculty of
+Level 5
+MC Natural and
+APPM111 Introduction to Mechanics OR 12
+VC Agricultural
+GR12 Technical
+Sciences
+Mathematics
+Level 6
+Statics and Mathematical
+Faculty of
+APPM121
+Modelling/ MTHS111 (40%) & Natural and
+(B.Eng 12 PC
+Statika en Wiskundige NPHY111 (40%) Agricultural
+Pogramme)
+Modellering Sciences
+Mathematical Modelling
+and Vector Algebra MTHS111 (40%) & MC Faculty of
+(Mainstream)/ NPHY111 (40%) Natural and
+APPM122 12 PC
+OR / OF Agricultural
+Wiskundige Modellering VC
+APPM111 (40%) Sciences
+en Vektoralgebra
+Faculty of
+Natural and
+APPM171 Introduction to Mechanics 12 MC
+Agricultural
+Sciences
+Faculty of
+Mathematical Modelling
+Natural and
+APPM172 and Vector Algebra APPM171 12 MC
+Agricultural
+(Extended prog)
+Sciences
+MTHS111,
+MTHS121 Faculty of
+Dynamics I/ & Natural and
+APPM211 8 PC
+Dinamika I APPM121 Agricultural
+OR / OF Sciences
+APPM122
+Faculty of
+Differential Equations/
+MTHS111 & Natural and
+APPM212 8 PC
+Differensiaalvergelykings MTHS121 Agricultural
+Sciences
+MTHS111,
+MTHS121 Faculty of
+& Natural and
+APPM213 Linear Programming 8 MC
+APPM121 Agricultural
+OR / OF Sciences
+APPM122
+73Module Descriptive
+Phasing out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Code/ Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Applied Mathematics / Toegepaste Wiskunde
+APPM212 (40%) & Faculty of
+Dynamics II/ APPM121 Natural and
+APPM221 8 PC
+Dinamika II OR / OF Agricultural
+APPM122 Sciences
+Faculty of
+MC
+Numerical Methods/ MTHS111 & Natural and
+APPM222 8 PC
+Numeriese Metodes MTHS121 Agricultural
+VC
+Sciences
+MTHS211 (40%) &
+MTHS212 (40%) & Faculty of
+one of Natural and
+APPM223 Mathematical Methods 8 MC
+APPM212 (40%) Agricultural
+OR/ OF Sciences
+APPM213 (40%)
+Partial Differential
+Faculty of
+Equations/ MTHS221
+MC Natural and
+APPM311 OR / OF 16
+Parsiële PC Agricultural
+MTHS223 & APPM212
+Differensiaalvergelykings Sciences
+Numerical Methods for
+Partial Differential
+APPM222, Faculty of
+Equations/
+MTHS211 Natural and
+APPM312 16 PC
+Numeriese Metodes vir & Agricultural
+Parsiële MTHS212 Sciences
+Differensiaalvergelykings
+APPM222, Faculty of
+MTHS211 Natural and
+APPM313 APMM328 Numerical Analysis 16 MC
+& Agricultural
+MTHS212 Sciences
+APPM212,
+Faculty of
+Dynamical Systems/ MTHS211
+Natural and
+APPM321 & 16 PC
+Dinamiese Stelsels Agricultural
+MTHS222 OR/ OF
+Sciences
+MTHS224
+MTHS211
+&
+MTHS212
+Faculty of
+Optimisation/ And 1 of the following:
+MC Natural and
+APPM322 APMM317 APPM211 16
+Optimalisering PC Agricultural
+OR / OF
+Sciences
+APPM213
+OR / OF
+MTHS224
+74Module Descriptive
+Code / Phasing out/old Name / Pre-Requisite Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Subject(s)/ Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Applied Mathematics / Toegepaste Wiskunde
+APPM212
+OR / OF
+APPM223
+&
+Faculty of
+Fluid Mechanics/ MTHS221
+MC Natural and
+APPM323 APMM327 OR / OF 16
+Vloeimeganika PC Agricultural
+MTHS223
+Sciences
+&
+MTHS222
+OR / OF
+MTHS224
+Biochemistry/ Biochemie
+Nutritional Faculty of
+BCDT311
+Biochemistry/ Natural and
+(For Health 12 PC
+Agricultural
+Sc prog) Voedingsbiochemie
+Sciences
+Biochemistry for Health
+Sciences/ Faculty of
+BCHF215
+Natural and
+(For Health Biochemie vir 16 PC
+Agricultural
+Sc prog) Gesondheids-
+Sciences
+wetenskappe
+Faculty of
+BCHG221
+NCHE111 & Natural and
+(For Health Clinical Biochemistry 16 PC
+NCHE121 Agricultural
+Sc prog)
+Sciences
+Introduction to Clinical Faculty of
+IBCH221 Biochemistry/ Natural and
+MC
+(For Health 8 Agricultural
+Inleiding tot Kliniese PC
+Sc prog) Sciences
+Biochemie
+Introductory Faculty of
+Biochemistry/ NCHE111 & MC Natural and
+BCHN213 16
+NCHE121 PC Agricultural
+Inleidende Biochemie
+Sciences
+Faculty of
+Biochemistry for Animal Natural and
+BCHN214 Health 8 MC Agricultural
+Sciences
+Faculty of
+Metabolism/
+NCHE111 & MC Natural and
+BCHN222 16
+Metabolisme NCHE121 PC Agricultural
+Sciences
+Faculty of
+Enzymology/
+BCHN213 & MC Natural and
+BCHS316 16
+Ensiemologie BCHN222 PC Agricultural
+Sciences
+75Descriptive
+Module Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Biochemistry/ Biochemie
+Faculty of
+Molecular Biology/ BCHN213 & MC Natural and
+BCHS317 16
+Molekulêre Biologie MCBN121 PC Agricultural
+Sciences
+Faculty of
+Analytical Biochemistry/ MCBN111 & MC Natural and
+BCHS321 16
+Analitiese Biochemie BCHN222 PC Agricultural
+Sciences
+Biochemistry Research
+Faculty of
+Project/ BCHN213 & MC Natural and
+BCHS322 16
+Biochemie BCHN222 PC Agricultural
+Navorsingsprojek Sciences
+Molecular and Cell
+Faculty of
+Biology I/ Gr12 Mathematics MC Natural and
+MCBN111 12
+Molekulêre en Level 4 PC Agricultural
+Sciences
+Selbiologie I
+Molecular and Cell Faculty of
+Biology II/ Gr 12 Mathematics Level MC Natural and
+MCBN121 12
+Molekulêre en 4 PC Agricultural
+Selbiologie II Sciences
+Faculty of
+Introduction to
+Natural and
+MCBN171 Molecular & Cell Biology 12 MC
+Agricultural
+I
+Sciences
+Faculty of
+Introduction to
+Natural and
+MCBN172 Molecular & Cell MCBN171 12 MC
+Agricultural
+Biology II
+Sciences
+Business Management / Ondernemingsbestuur
+Introduction to Business
+Faculty of
+Management/
+Economic and
+BMAN111 12 PC
+Inleiding tot Management
+Ondernemingsbestuur Sciences
+Faculty of
+General Management /
+Economic and
+BMAN121 12 PC
+Algemene Bestuur Management
+Sciences
+Problem Solving for Faculty of
+Managers/ Economic and
+PC
+BMAN223 16 Management
+Probleemoplossing vir VC
+Sciences
+Bestuurders
+76Module Descriptive
+Phasing out/old Pre-Requisite
+Code / Name / Cr/ Campus/ Faculty/
+Module Code/ Subject(s)/
+Module- Beskrywende Kr Kampus Fakulteit
+Modulekode Voorvereiste Vak(ke)
+kode Naam
+Business Mathematics and Informatics / Bedryfswiskunde en Informatika
+Introduction to Financial Faculty of
+Mathematics/ PC Natural and
+BWIA111 12 Agricultural
+Inleiding tot Finansiële VC
+Sciences
+Wiskunde
+Introduction to Actuarial Faculty of
+BWIA111 (40%)
+Science/ PC Natural and
+BWIA121 & 12 Agricultural
+Inleiding tot Aktuariële VC
+MTHS111 (40%) Sciences
+Wetenskap
+Faculty of
+BWIA121
+Financial Mathematics/
+Natural and
+BWIA272 & 24 PC
+Finansiële Wiskunde Agricultural
+MTHS121
+Sciences
+Basics of Financial Faculty of
+BWIA121
+Mathematics / PC Natural and
+BWIA273 & 16 Agricultural
+Basiese Finansiële VC
+MTHS121 Sciences
+Wiskunde
+BWIA271 Faculty of
+Actuarial Statistical
+OR / OF Natural and
+Models/ PC
+BWIA313 BWIA272 24 Agricultural
+Aktuariële Statistiese VC Sciences
+OR / OF
+Modelle
+BWIA273
+Models I (Stochastic Faculty of
+Processes and Survival Natural and
+BWIA271
+Models)/ Agricultural
+BWIA314 OR / OF 12 PC Sciences
+Modelle I (Stogastiese
+BWIA272
+Prosesse en
+Oorlewingsmodelle)
+Models II (Survival Faculty of
+Models)/ BWIA271 Natural and
+BWIA324 OR / OF 12 PC Agricultural
+Modelle II
+BWIA272 Sciences
+(Oorlewingsmodelle)
+Faculty of
+Contingencies/ BWIA271
+Natural and
+BWIA371 OR / OF 32 PC
+Gebeurlikhede Agricultural
+BWIA272
+Sciences
+BMI Project: Capital
+Markets Modelling and
+Faculty of
+Analysis/ BWIA111
+PC Natural and
+BWIN321 & 16
+Bedryfswiskunde Projek: VC Agricultural
+MTHS111
+Effektebeurs Modellering Sciences
+en Analise
+77Descriptive
+Module Pre-Requisite
+Code / Phasing out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Computer Science and Information Systems / Rekenaarwetenskap en Inligtingstelsels
+Introduction to
+Computing and
+Faculty of
+MC
+Programming/ Natural and
+CMPG111 ITRW111 12 PC
+Inleiding tot Agricultural
+VC
+Rekenaarwese en Sciences
+Programmering
+Note: CMPG115 cannot be recognized as a replacement for CMPG111.
+Nota: CMPG115 kan nie in die plek van CMPG111 erken word nie.
+Introduction to End Faculty of
+CMPG112 ITRW112 User Computing/ PC Natural and
+(Continuous 12
+CISM112 Inleiding tot VC Agricultural
+Assessment)
+Rekenaareindgebruik Sciences
+Programming for Faculty of
+Engineers/ Natural and
+CMPG115 ITRW115 12 PC
+Programmering vir Agricultural
+Ingenieurs Sciences
+Structured
+Faculty of
+CMPG111 (40%) MC
+ITRW124/ Programming/ Natural and
+CMPG121 OR / OF 12 PC
+CISM122 Gestruktureerde Agricultural
+CMPG115 (40%) VC
+Programmering Sciences
+User Interface
+Faculty of
+CMPG111 (40%)
+Programming/ MC Natural and
+CMPG122 ITRW123 OR / OF 12
+Gebruikerskoppelvlak- PC Agricultural
+CMPG115 (40%)
+programmering Sciences
+Faculty of
+Introduction to
+Natural and
+CMPG171 Computing and 12 MC
+Agricultural
+Programming
+Sciences
+Faculty of
+Structured Natural and
+CMPG172 CMPG171 12 MC
+Programming Agricultural
+Sciences
+Object Oriented
+Faculty of
+MC
+ITRW212/ Programming/ Natural and
+CMPG211 CMPG121 16 PC
+CISM214 Objekgeoriënteerde Agricultural
+VC
+Programmering Sciences
+Apps and Advanced
+User Interface
+Programming / Faculty of
+CMPG212 ITRW211 Toepassings en CMPG122 8 PC Natural and
+Gevorderde VC Agricultural
+Gebruikerkoppelvlak- Sciences
+programmering
+Systems Analysis and
+Faculty of
+Design I/ CMPG121
+PC Natural and
+CMPG213 ITRW213 OR / OF 16
+Stelselontleding en VC Agricultural
+CMPG122
+Ontwerp I Sciences
+78Descriptive
+Module Phasing Pre-Requisite
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Computer Science and Information Systems / Rekenaarwetenskap en Inligtingstelsels
+CMPG214 Communication Skills/ CMPG121 Faculty of
+PC Natural and
+(Continuous ITRW315 Kommunikasie- OR / OF 8
+Assessment) vaardighede CMPG122 VC Agricultural
+Sciences
+Faculty of
+Information Security/ CMPG121 PC Natural and
+CMPG215 Inligtingsekuriteit OR / OF 8 VC Agricultural
+CMPG122 Sciences
+Data Structures and Faculty of
+MC
+ITRW222/ Algorithms/ Natural and
+CMPG221 CISM213 Datastrukture en CMPG211 (40%) 8 PC Agricultural
+Algoritmes VC Sciences
+MTHS111/ 112/ 113/
+Faculty of
+114/ 123
+Data Analytics/ PC Natural and
+CMPG222 Data Analise OR/ OF STTN121 8 VC Agricultural
+&
+Sciences
+CMPG111/ 112
+System Analysis and Faculty of
+Design II/ VC Natural and
+CMPG223 ITRW225 Stelselontleding en CMPG213 (40%) 16 PC Agricultural
+Ontwerp II Sciences
+Faculty of
+CISM226 Introduction to Natural and
+CMPG224 CMPG121 8 MC
+(CMPG224) Software Engineering Agricultural
+Sciences
+Faculty of
+CMPG221 MC
+Databases/ Natural and
+CMPG311 ITRW311 OR / OF 16 PC
+Databasisse Agricultural
+CMPG223 VC
+Sciences
+Faculty of
+Decision Support
+MTHS111/ 113/ 123/ PC Natural and
+CMPG312 ITRW214 Systems I/ 16
+112/114 VC Agricultural
+Besluitsteunstelsels I
+Sciences
+Faculty of
+MC
+ITRW317/ Artificial Intelligence/ Natural and
+CMPG313 CMPG221 16 PC
+CISM326 Kunsmatige Intelligensie Agricultural
+VC
+Sciences
+Faculty of
+ITRW322/ Computer Networks/ PC Natural and
+CMPG315 CMPG221 16
+CISM327 Rekenaarnetwerke VC Agricultural
+Sciences
+79Module Phasing Descriptive Pre-Requisite
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Computer Science and Information Systems / Rekenaarwetenskap en Inligtingstelsels
+Faculty of
+MC
+Advanced Databases/ Natural and
+CMPG321 ITRW321 CMPG311 (40%) 16 PC
+Gevorderde Databasisse Agricultural
+VC
+Sciences
+Decision Support Faculty of
+CMPG322 ITRW325 Systems II/ CMPG312 (40%) 16 PC Natural and
+VC Agricultural
+Besluitsteunstelsels II Sciences
+Faculty of
+IT Developments/ CMPG221 & PC Natural and
+CMPG323 ITRW324 16
+IT-Ontwikkelings CMPG311 (40%) VC Agricultural
+Sciences
+Faculty of
+MC
+Operating Systems/ Natural and
+CMPG324 ITRW316 CMPG221 16 PC
+Bedryfstelsels Agricultural
+VC
+Sciences
+Faculty of
+Computer Networks/ Natural and
+CMPG325 CMPG221 16 MC
+Rekenaarnetwerke Agricultural
+Sciences
+Extended programmes VC IT codes / Verlengde programme VK IT kodes
+Introduction to Problem
+Faculty of
+Solving/
+Natural and
+ITSP111 12 VC
+Inleiding tot Agricultural
+Probleemoplossing Sciences
+Introduction to
+Graphical Interface
+Faculty of
+ITSP113 Programming/
+Natural and
+(Continuous 16 VC
+Inleiding tot Grafiese Agricultural
+Assessment)
+Koppelvlak- Sciences
+programmering
+Introduction to Object
+Oriented Programming/ Faculty of
+Natural and
+ITSP114 Inleiding tot 16 VC
+Agricultural
+Objekgeöriënteerde
+Sciences
+Programmering
+Introductory Programming
+Principles/ Faculty of
+Natural and
+ITSP121 Inleidende 12 VC
+Agricultural
+Programmerings-
+Sciences
+beginsels
+80Descriptive
+Module Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+Botany for Natural and
+CSDM111 12 MC
+Agriculture Agricultural
+Sciences
+Faculty of
+Introduction to Crop Natural and
+CSDM121 12 MC
+Production (Diploma) Agricultural
+Sciences
+Faculty of
+Introduction to Soil
+Natural and
+CSDM211 Science 16 MC Agricultural
+Sciences
+Faculty of
+Agricultural Natural and
+CSDM212 12 MC
+Climatology Agricultural
+Sciences
+Faculty of
+Natural and
+CSDM213 Farm Machinery 8 MC
+Agricultural
+Sciences
+Faculty of
+Vegetable Natural and
+CSDM215 CSDM121 8 MC
+Production Agricultural
+Sciences
+Faculty of
+Principles of Crop Natural and
+CSDM221 CSDM111 16 MC
+Improvement Agricultural
+Sciences
+Faculty of
+Soil Fertility & Natural and
+CSDM222 16 MC
+Fertilizers Agricultural
+Sciences
+Faculty of
+Soil Conservation Natural and
+CSDM223 12 MC
+(Diploma) Agricultural
+Sciences
+Faculty of
+Natural and
+CSDM224 Farm Practical II 8 MC
+Agricultural
+Sciences
+Faculty of
+Natural and
+CSDM225 Fruit Production CSDM121 8 MC
+Agricultural
+Sciences
+Faculty of
+CSDM211
+Agronomy of Natural and
+CSDM311 & 8 MC
+Summer Crops Agricultural
+CSDM223
+Sciences
+81Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+CSDM215
+Natural and
+CSDM312 Plant Protection & 16 MC
+Agricultural
+CSDM225
+Sciences
+Faculty of
+CSDM211
+Pedology and Soil Natural and
+CSDM315 & 8 MC
+Classification Agricultural
+CSDM222
+Sciences
+Faculty of
+CSDM211
+Agronomy of Natural and
+CSDM321 & 8 MC
+Winter Crops Agricultural
+CSDM223
+Sciences
+Faculty of
+CSDM215
+Natural and
+CSDM322 Weeds & Weed Control & 16 MC
+Agricultural
+CSDM225
+Sciences
+Faculty of
+Elements of
+Natural and
+CSDM323 Agricultural CSDM111 16 MC
+Agricultural
+Microbiology
+Sciences
+Faculty of
+CSDM211
+Elementary Natural and
+CSDM324 & 16 MC
+Irrigation Agricultural
+CSDM223
+Sciences
+Faculty of
+Natural and
+CSDM371 Practical Crop Production CSDM224 16 MC
+Agricultural
+Sciences
+Faculty of
+CSPM326
+Advanced Plant Natural and
+CSPS411 & 16 MC
+Breeding Agricultural
+ANSM312
+Sciences
+Faculty of
+CSPM313
+Natural and
+CSPS412 Horticultural Science & 12 MC
+Agricultural
+CSPM323
+Sciences
+Faculty of
+NCHE111
+Introduction to Soil Natural and
+CSPM211 & 16 MC
+Science Agricultural
+NCHE121
+Sciences
+Faculty of
+Agricultural MC Natural and
+CSPM212 12
+Climatology PC Agricultural
+Sciences
+Faculty of
+Natural and
+CSPM213 Farm Machinery 8 MC
+Agricultural
+Sciences
+Faculty of
+Introduction to Crop MC Natural and
+CSPM221 16
+Production (Mainstream) PC Agricultural
+Sciences
+82Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+NCHE111
+Soil Fertility & Natural and
+CSPM222 & 16 MC
+Fertilizers Agricultural
+NCHE121
+Sciences
+Faculty of
+MCBN111
+Natural and
+CSPM223 Soil Conservation (Degree) & 12 MC
+Agricultural
+MCBN121
+Sciences
+Faculty of
+MCBN111
+Agricultural Natural and
+CSPM225 & 12 MC
+Microbiology Agricultural
+MCBN121
+Sciences
+CSPM211(MC)
+OR / OF Faculty of
+Agronomy of GDKN121& MC Natural and
+CSPM311 8
+Summer Crops GDKN211/212(PC) PC Agricultural
+& Sciences
+CSPM221
+CSPM221
+& Faculty of
+Vegetable CSPM222(MC) MC Natural and
+CSPM313 16
+Production OR / OF PC Agricultural
+GDKN121 & Sciences
+GDKN211/212(PC)
+Faculty of
+Natural and
+CSPM315 Plant Physiology (only PC) 8 PC
+Agricultural
+Sciences
+Faculty of
+Plant Pathology and Natural and
+CSPM317 CSPM221 12 MC
+Nematology Agricultural
+Sciences
+Faculty of
+Agricultural Natural and
+CSPM319 CSPM221 8 MC
+Entomology Agricultural
+Sciences
+CSPM211(MC) Faculty of
+Agronomy of OR GDKN121 (PC) MC Natural and
+CSPM321 8
+Winter Crops & PC Agricultural
+CSPM221 Sciences
+Faculty of
+Weeds and Natural and
+CSPM322 CSPM221 16 MC
+Weed Control Agricultural
+Sciences
+Faculty of
+Natural and
+CSPM323 Fruit Production CSPM221 16 MC
+Agricultural
+Sciences
+83Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Agriculture / Landbou
+CSPM211(MC) Faculty of
+Principles of OR GDKN121(PC) MC Natural and
+CSPM324 16
+Irrigation & PC Agricultural
+CSPM221 Sciences
+Faculty of
+Plant Physiology Natural and
+CSPM325 CSPM221 8 MC
+(only MC) Agricultural
+Sciences
+Faculty of
+Principles of
+Natural and
+CSPM326 Genetics & CSPM221 8 MC
+Agricultural
+Plant Breeding
+Sciences
+Faculty of
+CSPM211
+Soil Survey and Natural and
+CSPM327 CSSS423 & 8 MC
+Land Use Planning Agricultural
+CSPM221
+Sciences
+Faculty of
+CSPM311
+MC Natural and
+CSPM411 Crop Production Systems & 8
+PC Agricultural
+CSPM321
+Sciences
+Faculty of
+Pedology & Soil Natural and
+CSPM415 CSPM211 16 MC
+Classification Agricultural
+Sciences
+Faculty of
+Natural and
+CSPM416 Soil Physics CSPM211 8 MC
+Agricultural
+Sciences
+Faculty of
+CSPM211
+Soil Chemistry & Natural and
+CSPM419 & 12 MC
+Mineralogy Agricultural
+CSPM222
+Sciences
+Faculty of
+Natural and
+CSPM421 Crop Physiology Crop Physiology 16 MC
+Agricultural
+Sciences
+Faculty of
+CSPM317,
+Applied Crop Natural and
+CSPM425 CSPM319 & 12 MC
+Protection Agricultural
+CSPM322
+Sciences
+Faculty of
+Natural and
+CSPM426 Soil Microbiology CSPM225 12 MC
+Agricultural
+Sciences
+84Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Agriculture / Landbou
+Faculty of
+Research Project Natural and
+CSPM474 ANSM312 32 MC
+and Seminar Agricultural
+Sciences
+Faculty of
+Practical Crop Production Natural and
+CSPM479 12 MC
+Training Agricultural
+Sciences
+Faculty of
+Crop Physiology and
+Natural and
+CSPP211 Productivity / Gewas PLKS111 12 PC
+Agricultural
+fisiologie en produksie
+Sciences
+Weather, Climate and Faculty of
+Agriculture of Southern Natural and
+CSPP212 12 PC
+Africa / Weer, klimaat en Agricultural
+landbou van Suidelike Afrika Sciences
+Introduction into Faculty of
+Agronomy / Natural and
+CSPP221 12 PC
+Inleiding tot Agronomie Agricultural
+Sciences
+Faculty of
+Integrated Pest
+Natural and
+CSPP311 Management / 16 PC
+Agricultural
+Geintegreerde pesbeheer
+Sciences
+Faculty of
+Crop Protection / Natural and
+CSPP321 CSPP211 16 PC
+Gewasbeskerming Agricultural
+Sciences
+Production of Summer
+Grain, oil and Faculty of
+protein rich crops / CSPP221 Natural and
+CSPP411 16 PC
+Produksie van somergraan, GDKN222 Agricultural
+olie en Sciences
+proteienryke gewasse
+Principles and practices
+Faculty of
+of vegetable production /
+CSPP221 Natural and
+CSPP412 Beginsels en praktyke van 16 PC
+GDKN222 Agricultural
+groente
+Sciences
+produksie
+Production of Small grain
+and Faculty of
+rotational winter crops / CSPP221 Natural and
+CSPP421 16 PC
+Produksie van kleingraan en GDKN222 Agricultural
+rotasie winter Sciences
+gewasse
+Faculty of
+Agriculture and the
+Natural and
+CSPP422 Environment / Landbou 16 PC
+Agricultural
+en die omgewing
+Sciences
+85Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Zoology / Dierkunde
+Developmental Faculty of
+DRKN211
+DRKS111 & Natural and
+(Terminate Biology/ 16 PC
+DRKS121 Agricultural
+Dec 2024) Ontwikkelingsbiologie Sciences
+Faculty of
+DRKN321 DRKN211,
+Animal Parasitology/ Natural and
+(Terminate DRKS221 & 16 PC
+Dierparasitologie Agricultural
+Dec 2025) DRKS311 (40%)
+Sciences
+Faculty of
+Invertebrates/ Natural and
+DRKS111 12 PC
+Invertebrate Agricultural
+Sciences
+Faculty of
+Chordates/
+Natural and
+DRKS121 DRKS111 (40%) 12 PC
+Chordata Agricultural
+Sciences
+Faculty of
+DRKS211
+Natural and
+(Active DRKN211 Ethology/Etologie DRKS111 & DRKS121 16 PC
+Agricultural
+2025)
+Sciences
+Comparative Animal
+Faculty of
+DRKS221
+Physiology/ DRKS111 & Natural and
+(Terminate Vergelykende DRKS121 16 PC Agricultural
+Dec 2024) Dierfisiologie Sciences
+Faculty of
+DRKN222 Molecular
+Natural and
+(Active DRKS221 Zoology/Molekulêre DRKS111 & DRKS121 16 PC
+Agricultural
+2025) Dierkunde
+Sciences
+Faculty of
+Ecology/ DRKN211 & Natural and
+DRKS311 32 PC
+Ekologie DRKS221 Agricultural
+Sciences
+Faculty of
+DRKS321 Comparative animal
+DRKN321 Natural and
+(Active physiology/Vergelykende DRKS211 & DRKN222 32 PC
+&DRKS322 Agricultural
+2026) Dierfisiologie
+Sciences
+DRKN211, Faculty of
+DRKS322
+Ethology/ DRKS221 Natural and
+(Terminate Etologie & 16 PC Agricultural
+Dec 2025)
+DRKS311 (40%) Sciences
+Economics / Ekonomie (see FEMS yearbook)
+Faculty of
+Basic Micro-economics/ Economic and
+ECON112 ECON111 12
+Basiese Mikro-ekonomie Management
+Sciences
+86Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Economics / Ekonomie (see FEMS yearbook)
+Introduction to Faculty of
+Macro-economics/ Economic and
+ECON122 ECON121 12
+Inleiding tot Makro- Management
+ekonomie Sciences
+ECON122 &
+MTHS111/ 112/
+113/114 /123
+OR / OF (one of)
+STTN111/122 / OR / OF Faculty of
+Macro-economics/ STTN115/125 OR / OF Economic and
+ECON211 16
+Makro-ekonomie STTN124 OR / OF Management
+STFM111 Sciences
+OR / OF
+STFM112
+OR / OF
+STFM125
+ECON112 & Faculty of
+Macro-economic STFM111 Economic and
+ECON212 16
+Applications OR / OF Management
+STFM112 Sciences
+ECON111/112 &
+MTHS111/ 112/ 114/123
+OR / OF (one of)
+STTN111/122 OR / OF
+STTN115/125 OR / OF Faculty of
+Micro-economics/ STTN124 Economic and
+ECON221 16
+Mikro-ekonomie OR / OF Management
+STFM111 Sciences
+OR / OF
+STFM112
+OR / OF
+STFM125
+Faculty of
+Economic
+Micro-economic
+ECON222 16 and
+Applications
+Management
+Sciences
+Faculty of
+Economic
+ECON313 Monetary Economics 16 and
+Management
+Sciences
+Faculty of
+Economic
+ECON314 Public Economics 16 and
+Management
+Sciences
+87Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Faculty of
+Economic
+Development Economics/
+ECON322 16 and
+Ontwikkelings-ekonomie
+Management
+Sciences
+Faculty of
+Economic
+ECON325 Econometrics 16 and
+Management
+Sciences
+Risk Management / Risikobestuur (see FEMS yearbook)
+Faculty of
+Introduction to Risk Economic
+PC
+EKRP211 Management/ 16 and
+VC
+Inleiding tot Risikobestuur Management
+Sciences
+Faculty of
+Investment
+Economic
+EKRP221 Management/ 16 PC and
+VC
+Beleggingsbestuur Management
+Sciences
+Faculty of
+Bank Risk Management/ Economic
+PC
+EKRP311 16 and
+Bankrisikobestuur VC
+Management
+Sciences
+Faculty of
+Financial Markets/ Economic
+PC
+EKRP321 16 and
+Finansiële Markte VC
+Management
+Sciences
+Electronics
+Faculty of
+APS 26,
+Electricity, Magnetism Natural and
+ELYM115 Maths Level 5, 12 MC
+and Circuits Agricultural
+Physical Science Level 4
+Sciences
+Faculty of
+APS 26,
+Introduction to Natural and
+ELYM127 Maths Level 5, 12 MC
+Electronics Agricultural
+Physical Science Level 4
+Sciences
+Faculty of
+ELYM115 & ELYM127
+Analogue Electronics and Natural and
+ELYM215 OR/ OF 16 MC
+Systems Agricultural
+SFEM171 & SFEM172
+Sciences
+Faculty of
+ELYM115 & ELYM127
+Digital Electronics and Natural and
+ELYM227 OR/ OF 16 MC
+Systems Agricultural
+SFEM171 & SFEM172
+Sciences
+ELYM215 Faculty of
+Advanced Analogue
+ELYM315 & 16 MC Natural and
+Electronics
+ELYM227
+88Agricultural
+Sciences
+Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Electronics
+Faculty of
+ELYM215
+Introduction to Signals Natural and
+ELYM316 & 16 MC
+and Systems Agricultural
+ELYM227
+Sciences
+Faculty of
+ELYM215
+Advanced Digital Natural and
+ELYM327 & 16 MC
+Techniques and Systems Agricultural
+ELYM227
+Sciences
+Faculty of
+ELYM215
+Introduction to Natural and
+ELYM328 & 16 MC
+Microcontroller Systems Agricultural
+ELYM227
+Sciences
+Admission into the Faculty of
+Foundation Electricity, faculty with Grade 12 Natural and
+SFEM171 12 MC
+Magnetism and Circuits Mathematics and Agricultural
+Physical Science Sciences
+Faculty of
+Introduction to Natural and
+SFEM172 SFEM171 12 MC
+Electronics Agricultural
+Sciences
+Financial Management / Finansiële Bestuur (see FEMS yearbook)
+Faculty of
+ACCC122 (40%)
+Introduction to Applied
+Economic
+FINM272 FINM221 Financial Management/ OR / OF PC and
+(FINM271- ACCF121 18
+FINM271 Inleiding tot Toegepaste VC Manage-
+phased out) &
+Finansiële Bestuur ment
+MTHS112/ 123 OR 111
+Sciences
+Physiology / Fisiologie (see Faculty of Health Science yearbook)
+Faculty of
+Principles of
+FKLT331 8 PC Health
+Pharmacokinetics
+Sciences
+Introduction to Faculty of
+FLGX113 Physiology/ 12 PC Health
+Inleiding tot Fisiologie Sciences
+Membrane and Muscle
+Physiology/ Faculty of
+FLGX123 FLGX113 12 PC Health
+Membraan- en
+Sciences
+Spierfisiologie
+Endocrine System and
+Faculty of
+Digestion/
+FLGX213 FLGX113 16 PC Health
+Endokriene Stelsel en
+Sciences
+Spysvertering
+89Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Physiological Defence
+Mechanisms/ FLGX113 Faculty of
+FLGX223 & 8 PC Health
+Fisiologiese Verdedigings-
+FLGX123 Sciences
+meganismes
+Metabolism/ FLGX113 Faculty of
+FLGX224 & 8 PC Health
+Metabolisme
+FLGX213 Sciences
+Excretion/ Faculty of
+FLGX312 FLGX113 8 PC Health
+Uitskeiding
+Sciences
+Physiology / Fisiologie
+Respiration/ Faculty of
+FLGX313 FLGX113 8 PC Health
+Respirasie
+Sciences
+Cardiovascular
+Faculty of
+FLGX317 Physiology/ FLGX113 8 PC Health
+Kardiovaskulêre Fisiologie Sciences
+Neurophysiology/ Faculty of
+FLGX325 FLGX113 16 PC Health
+Neurofisiologie
+Sciences
+Reproduction Physiology/ Faculty of
+FLGX328 FLGX113 8 PC Health
+Voortplantings-fisiologie
+Sciences
+Cardiovascular Physiology
+Applications/ Faculty of
+FLGX329 FLGX113 8 PC Health
+Kardiovaskulêre Fisiologie
+Sciences
+Toepassings
+Soil Science / Grondkunde
+Introduction to Soil Faculty of
+GDKN121 Science/ 12 PC Natural and
+Agricultural
+Inleidende Grondkunde
+Sciences
+GDKN212 Faculty of
+(GDKN211 GDKN211 Soil Chemistry/ Natural and
+GDKN121 16 PC
+replaced by Grond Chemie Agricultural
+GDKN212) Sciences
+Soil Degradation and Faculty of
+Rehabilitation/
+Natural and
+GDKN221 GDKN211/212(40%) 16 PC
+Gronddegradasie en Agricultural
+Rehabilitasie Sciences
+Faculty of
+Soil Fertility / Natural and
+GDKN222
+Grondvrugbaarheid
+GDKN212 16 PC
+Agricultural
+Sciences
+90Module Descriptive
+Phasing Pre-Requisite
+Code / out/old Name / Cr/ Campus/ Faculty/
+Subject(s)/
+Module- Module Code/ Beskrywende Kr Kampus Fakulteit
+kode Modulekode Naam
+Voorvereiste Vak(ke)
+Soil Science / Grondkunde
+Phase out from Soil Genesis and
+Faculty of
+2024. Final Classification/ Natural and
+GDKN311 deletion in 16 PC
+Grond Genese en Agricultural
+yearbook Dec
+2025.
+Klassifikasie Sciences
+Soil Genesis and Faculty of
+Classification/
+Natural and
+GDKN312 GDKN121 16 PC
+Grond genese en Agricultural
+Klassifikasie Sciences
+Faculty of
+Soil Physics and
+Natural and
+GDKN313 Irrigation/ Grond fisika en GDKN121 16 PC
+Agricultural
+Besproeiing
+Sciences
+Phase out from
+Faculty of
+2024. Final Soil Physics/ Natural and
+GDKN322 deletion in 16 PC
+yearbook Dec
+Grondfisika Agricultural
+Sciences
+2025.
+Faculty of
+Soil Microbiology /
+Natural and
+GDKN323 GDKN121 16 PC
+Grond Mikrobiologie Agricultural
+Sciences
+Faculty of
+Soil Health /
+Natural and
+GDKN324 16 PC
+Grondgesondheid Agricultural
+Sciences
+Faculty of
+Environmental Soil
+Natural and
+GDKN325 Science / GDKN312 16 PC
+Agricultural
+Omgewingsgrondkunde
+Sciences
+Faculty of
+Sustainable Agriculture/
+Natural and
+GDKN411 16 PC
+Volhoubare Landbou Agricultural
+Sciences
+Phase out from
+Faculty of
+2025. Final Precision Farming/
+Natural and
+GDKN421 deletion in 24 PC
+Presisieboerdery Agricultural
+yearbook Dec
+Sciences
+2026.
+Faculty of
+Precision Farming / CSPP221 Natural and
+GDKN422 Presisieboerdery GDKN222 16 PC Agricultural
+Sciences
+Geography / Geografie
+Introduction to Physical MC Faculty of
+GEOG111 12
+Geography/ PC Natural and
+91Inleiding tot Fisiese Agricultural
+Geografie Sciences
+Module Descriptive
+Phasing Pre-Requisite
+Code / out/old Name / Cr/ Campus/ Faculty/
+Subject(s)/
+Module- Module Code/ Beskrywende Kr Kampus Fakulteit
+kode Modulekode Naam
+Voorvereiste Vak(ke)
+Introduction to Human
+Faculty of
+Geography/ MC Natural and
+GEOG121 12
+Inleiding tot Menslike PC Agricultural
+Geografie Sciences
+Faculty of
+Introduction to Physical Natural and
+GEOG171 12 MC
+Geography Agricultural
+Sciences
+Geography / Geografie
+Faculty of
+Introduction to Human Natural and
+GEOG172 GEOG171 12 MC
+Geography Agricultural
+Sciences
+Faculty of
+Physical Geography/ MC Natural and
+GEOG211 GEOG111 16
+Fisiese Geografie PC Agricultural
+Sciences
+Environmental Faculty of
+MTHS111
+Thermodynamics/
+Natural and
+GEOG212 OR / OF 8 PC
+Omgewings- Agricultural
+MTHS121
+termodinamika Sciences
+Faculty of
+Human Geography/ MC Natural and
+GEOG221 GEOG121 16
+Menslike Geografie PC Agricultural
+Sciences
+GIS and Remote Sensing/ Faculty of
+GEOG211 & MC Natural and
+GEOG311 GIS en 32
+GEOG221 PC Agricultural
+Afstandwaarneming
+Sciences
+GEOG211, Faculty of
+Applied Geography/ GEOG221 MC Natural and
+GEOG321 32
+Toegepaste Geografie & PC Agricultural
+GEOG311 (40%) Sciences
+Geology / Geologie
+Geology and the
+Faculty of
+Environment/ Natural and
+GLGN112 12 PC
+Geologie en die Agricultural
+Omgewing Sciences
+South African Faculty of
+Natural and
+GLGN122 Geology/ GLGN112 (40%) 12 PC
+Agricultural
+Suid-Afrikaanse Geologie Sciences
+92Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Mineralogy and Igneous Faculty of
+Petrology/ GLGN112 & Natural and
+GLGN211 16 PC
+Mineralogie en GLGN122 Agricultural
+Stollingspetrologie Sciences
+Sedimentology, Structural
+Geology and GLGN112, Faculty of
+Neotectonics/ GLGN122 Natural and
+GLGN221 16 PC
+Sedimentologie, & Agricultural
+Struktuurgeologie en GLGN211 (40%) Sciences
+Neotektoniek
+Geology / Geologie
+Metamorphic
+Faculty of
+Petrology and
+GLGN211 & Natural and
+GLGN311 Geochemistry/ 32 PC
+GLGN221 Agricultural
+Metamorfe Petrologie en Sciences
+Geochemie
+GLGN211, Faculty of
+Hydrogeology/ GLGN221 Natural and
+GLGN321 32 PC
+Hidrogeologie & Agricultural
+GLGN311 (40%) Sciences
+93Indigenous Knowledge Systems
+Year level 1 & 2: Compulsory
+NOTE 1 Note 1
+All first- and second-year modules are compulsory for all students
+Year level 3: Candidates have the choice of electives modules
+Note 2
+NOTE 2
+In year three 1st semester students must take the compulsory modules* and select 2 or 3 modules
+from the following to a total of 32 credits (see programme NAS.1.25.2)
+Note 3
+NOTE 3 In year three 2nd semester students must take the compulsory module* and select 3 modules from
+the following (see programme NAS.1.25.2)
+Year level 4: Candidates have the choice of electives modules
+Note 4
+NOTE 4
+In year four 1st semester students must take the compulsory modules* and select 1 module from
+the following (see programme NAS.1.25.2)
+Faculty of
+IKSA311 Impact of Climate Change
+Natural and
+Note 2 on African Indigenous IKSM114 16 MC
+Agricultural
+MC Food Security Systems
+Sciences
+African Indigenous
+Agriculture and Faculty of
+IKSA321
+Sustainable Community Natural and
+Note 3 16 MC
+Livelihood and Agricultural
+MC
+Development in Southern Sciences
+Africa
+Faculty of
+IKSA322 Comparative African
+Natural and
+Note 3 Indigenous Cultural, IKSM224 16 MC
+Agricultural
+MC Biodiversity and Heritage
+Sciences
+Faculty of
+IKSA323 Comparative African
+Natural and
+Note 3 Indigenous and Western IKSM125 16 MC
+Agricultural
+MC Food Security Systems
+Sciences
+94Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Indigenous Knowledge Systems
+Indigenous Knowledge Faculty of
+IKSA413
+and Renewable Energy Natural and
+Note 4 16 MC
+Sources for Sustainable Agricultural
+MC
+Livelihood II Sciences
+Faculty of
+IKSC311 Comparative Western
+Natural and
+Note 2 and African Indigenous ISKM115 16 MC
+Agricultural
+MC Life Skills Education
+Sciences
+Comparative African Faculty of
+IKSC312
+Indigenous and Western Natural and
+Note 2 16 MC
+Peace and Conflict Agricultural
+MC
+Resolution Approaches Sciences
+Faculty of
+IKSC321 African Traditional
+Natural and
+Note 3 Governance and 16 MC
+Agricultural
+MC Democracy
+Sciences
+Faculty of
+IKSC322
+African Indigenous Music Natural and
+Note 3 16 MC
+and Dance Agricultural
+MC
+Sciences
+Faculty of
+IKSC323 Gender in African
+Natural and
+Note 3 Indigenous Arts and 16 MC
+Agricultural
+MC Culture
+Sciences
+Faculty of
+IKSC413
+African Indigenous Music Natural and
+Note 4 16 MC
+and Drama Agricultural
+MC
+Sciences
+Faculty of
+IKSH311
+Comparative Health Care IKSM213 Natural and
+Note 2 8 MC
+Systems Agricultural
+MC
+Sciences
+African Indigenous Faculty of
+IKSH312
+Medicinal and Nutritional Natural and
+Note 2 16 MC
+Significance of Living Agricultural
+MC
+Organisms Sciences
+Faculty of
+IKSH314 Gender in African
+Natural and
+Note 2 Indigenous Health Care 8 MC
+Agricultural
+MC Systems
+Sciences
+Faculty of
+IKSH321 IKSM113
+African Indigenous Health Natural and
+Note 3 & 16 MC
+Care Providers Agricultural
+MC IKSM124
+Sciences
+95Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Indigenous Knowledge Systems
+Faculty of
+IKSH322 Indigenous Knowledge IKSM113
+Natural and
+Note 3 and Innovations in Public & 16 MC
+Agricultural
+MC Health Care IKSM124
+Sciences
+Faculty of
+African Traditional IKSM113
+Natural and
+IKSH323 Medicine and Health Care &
+Agricultural
+Systems II IKSM124
+Sciences
+Faculty of
+African Traditional
+Natural and
+IKSH411 Medicine and Health Care 16 MC
+Agricultural
+Systems II
+Sciences
+Faculty of
+IKSM111 The Nature of Indigenous
+Natural and
+Note 1 Knowledge Systems and 12 MC
+Agricultural
+MC Innovations
+Sciences
+Faculty of
+IKSM112
+African Languages and Natural and
+Note 1 12 MC
+Communication Systems Agricultural
+MC
+Sciences
+Introduction to Health Faculty of
+IKSM113
+Care Systems in Relation Natural and
+Note 1 12 MC
+to Indigenous Knowledge Agricultural
+MC
+Systems (IKS) Sciences
+Faculty of
+IKSM114 The Role of Indigenous
+Natural and
+Note 1 Knowledge Systems in 12 MC
+Agricultural
+MC Climate Change
+Sciences
+Faculty of
+IKSM115 Introduction to African
+Natural and
+Note 1 Indigenous Life Skills 12 MC
+Agricultural
+MC Education
+Sciences
+Faculty of
+IKSM121 A Historiography of
+Natural and
+Note 1 African Science and 12 MC
+Agricultural
+MC Technology
+Sciences
+Faculty of
+IKSM122 Introduction to Tools of
+Natural and
+Note 1 Indigenous Knowledge 12 MC
+Agricultural
+MC Management
+Sciences
+Faculty of
+IKSM123 The Use and Roles of Signs
+Natural and
+Note 1 and Symbols in African 12 MC
+Agricultural
+MC Communities
+Sciences
+96Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Indigenous Knowledge Systems
+Faculty of
+IKSM124 The Nature and Roles of
+Natural and
+Note 1 African Indigenous 12 MC
+Agricultural
+MC Health Care Providers
+Sciences
+Faculty of
+IKSM125
+African Indigenous Food Natural and
+Note 1 12 MC
+Security Systems Agricultural
+MC
+Sciences
+Faculty of
+IKSM211
+The Rights of Indigenous Natural and
+Note 1 12 MC
+Peoples Agricultural
+MC
+Sciences
+Faculty of
+IKSM212
+African Cultural Natural and
+Note 1 12 MC
+Astronomy Agricultural
+MC
+Sciences
+The Nature and Faculty of
+IKSM213
+Characteristics of African Natural and
+Note 1 12 MC
+Indigenous Health Care Agricultural
+MC
+Systems Sciences
+Faculty of
+IKSM214 African Indigenous Natural
+Note 1 Knowledge Development 12 MC and
+MC and Management Agricultural
+Sciences
+Implications of
+Faculty of
+Intellectual Property
+IKSM215 Natural
+Rights (IPR) on
+Note 1 12 MC and
+Indigenous Knowledge
+MC Agricultural
+Systems (IKS)/Traditional
+Sciences
+Knowledge (TK)
+Faculty of
+IKSM221 Natural
+African Indigenous
+Note 1 12 MC and
+Architecture and Design
+4MC Agricultural
+Sciences
+Faculty of
+IKSM222 African Indigenous Natural
+Note 1 Approaches to Peace 12 MC and
+MC and Conflict Resolution Agricultural
+Sciences
+Faculty of
+Socio-Cultural Protocols
+IKSM223 Natural
+Associated with African
+Note 1 12 MC and
+Traditional Medicine and
+MC Agricultural
+Health Care Systems
+Sciences
+97Module Phasing Descriptive Pre-Requisite
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Code/
+kode Modulekode Naam Vak(ke)
+Indigenous Knowledge Systems
+Faculty of
+IKSM224 African Indigenous
+Natural and
+Note 1 Cultural, Bio-Diversity 12 MC
+Agricultural
+MC and Heritage
+Sciences
+Faculty of
+IKSM225
+Foundations of African Natural and
+Note 1 12 MC
+Indigenous Education Agricultural
+MC
+Sciences
+Theories of African Faculty of
+IKSM313 IKSM111
+Indigenous Community Natural and
+Compulsory & 16 MC
+Innovation Systems for Agricultural
+MC IKSM121
+Sustainable Livelihood Sciences
+Faculty of
+IKSM411*
+Natural and
+Compulsory Basic Research Methods 16 MC
+Agricultural
+MC
+Sciences
+Faculty of
+IKSM412* Qualitative and
+Natural and
+Compulsory Quantitative Research in 16 MC
+Agricultural
+MC IKS
+Sciences
+Faculty of
+IKSM421* IKSM411
+Internship and Research Natural and
+Compulsory & 64 MC
+Project Agricultural
+MC IKSM412
+Sciences
+IKSM111, Faculty of
+IKSS311 Introduction to African IKSM121 Natural and
+16 MC
+MC Note 2 Ethno-mathematics & Agricultural
+IKSM122 Sciences
+Comparative African Faculty of
+IKSM111
+IKSS312 Indigenous and Western Natural and
+& 16 MC
+MC note 2 Science and Technology Agricultural
+IKSM121
+Systems Sciences
+Faculty of
+IKSS321 IKSM111
+African Indigenous Natural and
+Note 3 & 16 MC
+Metallurgy I Agricultural
+MC IKSM121
+Sciences
+IKSM111, Faculty of
+IKSS322
+African Indigenous Ethno- IKSM121 Natural and
+Note 3 16 MC
+mathematics II & Agricultural
+MC
+IKSS311 Sciences
+98Phasing Descriptive Pre-Requisite
+Module out/old
+Name / Subject(s)/ Cr/ Campus/ Faculty/
+Code / Module- Module
+Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Code/
+Modulekode Naam Vak(ke)
+Indigenous Knowledge Systems
+Faculty of
+IKSS323 Comparative African IKSM111 Natural
+Note 3 Indigenous Textile & 16 MC and
+MC Technologies IKSM121 Agricultural
+Sciences
+Faculty of
+Indigenous Knowledge
+IKSS324 IKSM111 Natural
+and Renewable Energy
+Compulsory & 16 MC and
+Sources for Sustainable
+MC IKSM121 Agricultural
+Livelihood I
+Sciences
+Faculty of
+IKSS413 Natural
+African Indigenous
+Note 4 IKSS321 16 MC and
+Metallurgy II
+MC Agricultural
+Sciences
+Microbiology / Mikrobiologie
+Microbiology for Faculty of
+Nursing/ MC Natural
+MKBN121 12 and
+Mikrobiologie vir PC
+Agricultural
+Verpleegkunde
+Sciences
+Introductory Faculty of
+Microbiology/ NCHE111 MC Natural
+MKBN211 & 16 and
+Inleidende PC
+NCHE121 Agricultural
+Mikrobiologie Sciences
+Introductory Microbial
+Genetics, Virology and Faculty of
+Immunology/ MC Natural
+MKBS221 MKBN211 (40%) 16 and
+Inleidende Mikrobiese PC
+Agricultural
+Genetika, Virologie en
+Sciences
+Immunologie
+Faculty of
+Microbial Physiology/ MKBN211 Natural
+MKBS313 & 16 PC and
+Mikrobiese Fisiologie
+MKBS221 Agricultural
+Sciences
+Faculty of
+Microbial Physiology/ MKBN211 Natural
+MKBS313 & 16 PC and
+Mikrobiese Fisiologie
+MKBS221 Agricultural
+Sciences
+Faculty of
+Recombinant DNA MKBN211 Natural
+MKBS314 Technology and & 16 PC and
+Industrial Microbiology/ MKBS221 Agricultural
+Sciences
+99Rekombinante DNA
+Tegnologie & Industriële
+Mikrobiologie
+Phasing Descriptive Pre-Requisite
+Module out/old
+Name / Subject(s)/ Cr/ Campus/ Faculty/
+Code / Module- Module
+Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Code/
+Modulekode Naam Vak(ke)
+Faculty of
+MKBN211 Natural
+MKBS316 Microbial Ecology & 16 MC and
+MKBS221 Agricultural
+Sciences
+Microbiology / Mikrobiologie
+Faculty of
+Environmental MKBN211 Natural
+MKBS317 Microbiology and Public & 16 MC and
+Health MKBS221 Agricultural
+Sciences
+Diversity and Ecology of Faculty of
+Microorganisms/ MKBN211 Natural
+MKBS325 & 32 PC and
+Diversiteit en Ekologie
+MKBS221 Agricultural
+van Mikroörganismes
+Sciences
+Faculty of
+MKBN211 Natural
+Industrial Microbiology
+MKBS326 & 16 MC and
+and Biotechnology
+MKBS221 Agricultural
+Sciences
+Faculty of
+MKBN211 Natural
+Virology and
+MKBS327 & 16 MC and
+Immunology
+MKBS221 Agricultural
+Sciences
+Faculty of
+Microbiology for Food
+and Nutrition/ Natural
+MKBX213 8 PC and
+Mikrobiologie vir
+Agricultural
+Voedsel en Voeding
+Sciences
+Microbiology (for Faculty of
+Pharmacy)/ Natural
+MKPN111 12 PC and
+Mikrobiologie (vir
+Agricultural
+Farmasie)
+Sciences
+Mathematics / Wiskunde
+Mathematics Induction course is compulsory for MTHS111 and MTHS114
+Gr12 Mathematics
+Level 5/
+Introductory Algebra
+and Calculus I Gr12 Wiskunde MC Faculty of
+(Mainstream) / Vlak 5 Natural and
+MTHS111 12 PC
+Agricultural
+Inleidende Algebra en OR / OF VC
+Sciences
+Applies only where
+Calculus I
+Maths is not a
+major (core
+100module): Tech
+Maths Level 6 /
+Tegniese Wiskunde
+Vlak 6
+OR / OF
+MTHS113
+OR / OF
+MTHS114
+OR / OF
+MTHS112 (60%)
+OR / OF
+MTHS123 (60%)
+Descriptive Pre-Requisite
+Module Phasing out/old
+Name / Subject(s)/ Cr/ Campus/ Faculty/
+Code / Module- Module Code/
+Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode
+Naam Vak(ke)
+Mathematics / Wiskunde
+Gr12 Mathematics
+Level 3/
+Gr12 Wiskunde
+Vlak 3
+OR / OF
+Gr12 Tech Maths
+Level 4 /
+Mathematical
+Gr12 Tegniese
+Techniques/ MC Faculty of
+Wiskunde Vlak 4
+Natural and
+MTHS112 Wiskundige Tegnieke OR / OF 12 PC
+Agricultural
+(not in FNAS Extended/ VC Sciences
+programmes) Verlengde
+WISS113 &
+WISS123
+OR / OF
+Bridging the
+Mathematics Gap I
+and 11 (Univ Prep
+module)
+Gr12 Mathematics
+Level 4/
+Gr12 Wiskunde
+Vlak 4
+Basic Mathematical OR / OF Faculty of
+Techniques/ Gr12 Tech Maths PC Natural and
+MTHS113 Level 5 / 12
+Basiese Wiskundige VC Agricultural
+Gr12 Tegniese
+Tegnieke Sciences
+Wiskunde Vlak 5
+OR / OF
+MTHS112
+OR / OF
+MTHS123
+101OR / OF
+Bridging the
+Mathematics Gap I
+and 11 (Univ Prep
+module) (60%)
+Descriptive Pre-Requisite
+Module Phasing
+out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Code / Module-
+Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode
+Modulekode Naam Vak(ke)
+Mathematics / Wiskunde
+Gr12 Mathematics Faculty of
+Level 4/ Natural and
+Agricultural
+Gr12 Wiskunde
+Sciences
+Vlak 4
+Applied Calculus I OR / OF
+(Mainstream) / Gr12 Tech Maths MC
+MTHS114 Level 5 / 12
+Toegepaste PC
+Gr12 Tegniese
+Calculus I
+Wiskunde Vlak 5
+OR / OF
+MTHS112
+OR / OF
+MTHS123
+Gr12 Mathematics Faculty of
+Level 3 Natural and
+Pre-Calculus for OR / OF Agricultural
+MTHS115 Tech Maths Level 4 12 MC Sciences
+Science I
+OR / OF
+Mathematics
+Literacy Level 5
+Gr12 Mathematics Faculty of
+Level 3 Natural and
+OR / OF Agricultural
+Pre-Calculus for MC
+MTHS119 Tech Maths Level 4 12 Sciences
+Commerce I VC
+OR / OF
+Mathematics
+Literacy Level 5
+Introductory Algebra Faculty of
+and Calculus II MC Natural and
+MTHS121 (Mainstream)/ MTHS111 (40%) 12 PC Agricultural
+Sciences
+Inleidende Algebra en VC
+Calculus II
+Gr12 Mathematics Faculty of
+Level 3/ Natural and
+Gr12 Wiskunde Agricultural
+Sciences
+Vlak 3
+Mathematical
+OR / OF
+Techniques/ PC
+MTHS123 12
+Gr12 Tech Maths VC
+Wiskundige Tegnieke
+Level 4 /
+Gr12 Tegniese
+Wiskunde Vlak 4
+OR / OF
+102Extended/
+Verlengde
+WISS113 &
+WISS123
+OR / OF
+Bridging the
+Mathematics Gap I
+and 11 (Univ Prep
+module)
+Module Phasing Descriptive Pre-Requisite
+out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Code / Module-
+Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode
+Modulekode
+Naam Vak(ke)
+Mathematics / Wiskunde
+Applied Calculus II Faculty of
+(Mainstream) / MTHS111 (40%) MC Natural and
+MTHS124 Toegepaste OR / OF 12 Agricultural
+PC
+Calculus II MTHS114 (40%) Sciences
+Faculty of
+Pre-Calculus for Natural and
+MTHS125 MTHS115 (40%) 12 MC
+Science II Agricultural
+Sciences
+Faculty of
+Pre-Calculus for MC Natural and
+MTHS129 MTHS119 (40%) 12
+Commerce II VC Agricultural
+Sciences
+Gr12 Mathematics Faculty of
+Introductory Algebra
+Level 3 Natural and
+MTHS171 and Calculus I 12 MC Agricultural
+OR / OF
+(Extended) Sciences
+Tech Maths Level 4
+Faculty of
+Introductory Algebra
+Natural and
+MTHS172 and Calculus II MTHS171 12 MC
+Agricultural
+(Extended)
+Sciences
+Gr12 Mathematics Faculty of
+Applied Calculus I Level 3 Natural and
+MTHS173 (Extended) OR / OF 12 MC Agricultural
+Sciences
+Tech Maths Level 4
+Faculty of
+Applied Calculus II Natural and
+MTHS174 MTHS173 12 MC
+(Extended) Agricultural
+Sciences
+Gr12 Mathematics
+Foundation Mathematics
+Level 3
+II Faculty of
+MTHS175 OR / OF 16 MC
+(Law Faculty, Law
+Mathematics
+not FNAS)
+Literacy Level 5
+103Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Mathematics / Wiskunde
+Faculty of
+Multivariable Calculus I/ MTHS111 & MTHS121 MC
+Natural and
+MTHS211 Meerveranderlike OR/OF 8 PC
+Agricultural
+Calculus I MTHS171 & MTHS172 VC
+Sciences
+Faculty of
+MTHS111 & MTHS121 MC
+Linear Algebra I/ Natural and
+MTHS212 OR/OF 8 PC
+Lineêre Algebra I Agricultural
+MTHS171 & MTHS172 VC
+Sciences
+Multivariable
+Faculty of
+MC
+Calculus II/
+Natural and
+MTHS221 MTHS211 (40%) 8 PC
+Agricultural
+Meerveranderlike Calculus
+VC
+Sciences
+II
+Faculty of
+MC
+Linear Algebra II/
+Natural and
+MTHS222 MTHS212 (40%) 8 PC
+Lineêre Algebra II Agricultural
+VC
+Sciences
+Faculty of
+Engineering Analysis/
+Natural and
+MTHS211 (40%) 8 PC
+Ingenieurs Analise Agricultural
+Sciences
+Applied Linear Algebra/ Faculty of
+Natural and
+MTHS224 Toegepaste Lineêre MTHS212 (40%) 8 PC
+Agricultural
+Algebra Sciences
+MTHS111
+OR / OF
+Discrete
+Faculty of
+MTHS112
+Mathematics/ PC Natural and
+MTHS225 OR / OF 8
+Diskrete VC Agricultural
+MTHS113
+Sciences
+Wiskunde
+OR / OF
+MTHS123
+Faculty of
+MC
+Real Analysis/ Natural and
+MTHS311 MTHS221 16 PC
+Reële Analise Agricultural
+VC
+Sciences
+Faculty of
+MC
+Combinatorics/ MTHS212 & Natural and
+MTHS312 16 PC
+Kombinatorika MTHS221 of MTHS223 Agricultural
+VC
+Sciences
+Faculty of
+MC
+Complex Analysis/ MTHS211 & Natural and
+MTHS321 16 PC
+Komplekse Analise MTHS221 Agricultural
+VC
+Sciences
+Faculty of
+MC
+Algebraic Structures/
+MTHS212 & Natural and
+MTHS322 16 PC
+Algebraïese Strukture MTHS222 Agricultural
+VC
+Sciences
+104Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Mathematics: Extended
+Introduction to
+Gr12 Mathematics Faculty of
+Mathematics I/
+Level 3/ Natural and
+WISS111 12 VC
+Inleiding tot Gr12 Wiskunde Agricultural
+Wiskunde I Vlak 3 Sciences
+Introduction to
+Mathematical Gr12 Mathematics Faculty of
+Techniques I/ Level 3/ Natural and
+WISS113 12 VC
+Gr12 Wiskunde Agricultural
+Inleiding tot Wiskundige
+Vlak 3 Sciences
+Tegnieke I
+Introduction to
+Faculty of
+Mathematics II/
+Natural and
+WISS121 WISS111 (40%) 12 VC
+Inleiding tot Agricultural
+Wiskunde II Sciences
+Introduction to
+Mathematical Faculty of
+Techniques II/ Natural and
+WISS123 WISS113 (40%) 12 VC
+Agricultural
+Inleiding tot Wiskundige
+Sciences
+Tegnieke II
+Chemistry / Chemie
+PC old code = CHEM/CHEN; MC old code = MCHE/SFCM
+Introductory Inorganic
+Faculty of
+and Physical Chemistry
+NCHE111 (Mainstream)/ 12 MC Natural and
+PC Agricultural
+Inleidende Anorganiese
+Sciences
+en Fisiese Chemie
+Faculty of
+Natural and
+MCHE115 Introductory Chemistry 12 MC
+Agricultural
+Sciences
+Introductory Organic Faculty of
+Chemistry (Mainstream)/ MC Natural and
+NCHE121 12
+Inleidende Organiese PC Agricultural
+Chemie Sciences
+Introductory Inorganic
+Faculty of
+and Physical Chemistry
+NCHE171 (Extended)/ 12 MC Natural and
+Agricultural
+Inleidende Anorganiese
+Sciences
+en Fisiese Chemie
+Introductory Organic
+Faculty of
+Chemistry (Extended)/
+Natural and
+NCHE172 NCHE171 12 MC
+Inleidende Organiese Agricultural
+Chemie Sciences
+105Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Chemistry / Chemie
+PC old code = CHEM/CHEN; MC old code = MCHE/SFCM
+Faculty of
+Analytical Chemistry II/ NCHE111 & NCHE121
+MC Natural and
+NCHE211 OR/ OF 8
+Analitiese Chemie II PC Agricultural
+NCHE171 & NCHE172
+Sciences
+NCHE111 & NCHE121
+OR/ OF
+NCHE171 & NCHE172
+Faculty of
+Physical Chemistry II/ &
+PC Natural and
+NCHE212 MTHS111 & MTHS121 8
+Fisiese Chemie II MC Agricultural
+OR/ OF
+Sciences
+MTHS171 & MTHS172
+OR/ OF
+MTHS114 & MTHS124
+Organic Chemistry II
+Pharmacy/ Biological Faculty of
+NCHE111 & NCHE121
+Sciences/ Natural and
+NCHE213 OR/ OF
+Agricultural
+Organiese Chemie II
+NCHE171 & NCHE172
+Sciences
+Farmasie /Biologiese
+Wetenskappe
+Faculty of
+NCHE111 & NCHE121
+Inorganic Chemistry II/ PC Natural and
+NCHE221 OR/ OF 8
+Anorganiese Chemie II MC Agricultural
+NCHE171 & NCHE172
+Sciences
+Faculty of
+NCHE111 & NCHE121
+Organic Chemistry II/ MC Natural and
+NCHE222 OR/ OF 8
+Organiese Chemie II PC Agricultural
+NCHE171 & NCHE172
+Sciences
+Faculty of
+NCHE211
+Analytical Methods III/ MC Natural and
+NCHE311 OR/ OF 16
+Analitiese Metodes III PC Agricultural
+NCHE212
+Sciences
+Faculty of
+Physical Chemistry III / MC Natural and
+NCHE312 NCHE212 16
+Fisiese Chemie III PC Agricultural
+Sciences
+Faculty of
+Inorganic Chemistry III/ MC Natural and
+NCHE321 NCHE221 16
+Anorganiese Chemie III PC Agricultural
+Sciences
+Faculty of
+Organic Chemistry III/
+MC Natural and
+NCHE322 NCHE222 16
+Organiese Chemie III PC Agricultural
+Sciences
+106Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Physics / Fisika
+Faculty of
+Basic Physics I/
+MC Natural and
+NPHY111 12
+Basiese Fisika I PC Agricultural
+Sciences
+Faculty of
+Basic Physics II/ NPHY111 (40%)
+MC Natural and
+NPHY121 & 12
+Basiese Fisika II PC Agricultural
+MTHS111 (40%)
+Sciences
+Faculty of
+Admissions into
+Natural and
+NPHY123 Introduction to Physics Agriculture 12 MC
+Agricultural
+Degree Programme
+Sciences
+Faculty of
+Admissions into
+Introduction to Basic Natural and
+NPHY124 Agriculture 12 MC
+Physics Concepts Agricultural
+Degree Programme
+Sciences
+Faculty of
+Natural and
+NPHY171 Basic Physics I 12 MC
+Agricultural
+Sciences
+Faculty of
+NPHY171 (40%)
+Natural and
+NPHY172 Basic Physics II & 12 MC
+Agricultural
+MTHS171 (40%)
+Sciences
+Faculty of
+Physics for Biology I/
+Natural and
+FSKS113 12 PC
+Fisika vir Biologie I Agricultural
+Sciences
+Faculty of
+FSKS113 (40%)
+Physics for Biology II/ Natural and
+FSKS123 OR/ OF 12 PC
+Fisika vir Biologie II Agricultural
+NPHY111 (40%)
+Sciences
+NPHY111/ NPHY171
+Electricity and Magnetism Faculty of
+&
+/ MC Natural and
+NPHY211 NPHY121/ NPHY172 8
+Elektrisiteit en PC Agricultural
+&
+Magnetisme Sciences
+MTHS111
+NPHY111/ NPHY171
+Faculty of
+&
+Modern Physics / MC Natural and
+NPHY212 NPHY121/ NPHY172 8
+Moderne Fisika PC Agricultural
+&
+Sciences
+MTHS111 & MTHS121
+Introductory Quantum NPHY212 (40%) Faculty of
+NPHY221 Physics/ & 8 MC Natural and
+PC Agricultural
+Inleidende Kwantumfisika MTHS211 (40%)
+Sciences
+107Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Physics / Fisika
+Faculty of
+Optics and Waves/ NPHY212 (40%)
+MC Natural and
+NPHY222 & 8
+Optika en Golwe PC Agricultural
+MTHS211 (40%)
+Sciences
+Faculty of
+Electromagnetism/ NPHY211
+Natural and
+NPHY311 & 16 PC
+Elektromagnetisme Agricultural
+MTHS211
+Sciences
+NPHY212,
+NPHY221,
+NPHY222
+&
+MTHS211
+as well as ONE of:
+Faculty of
+MTHS221
+Wave Mechanics/ MC Natural and
+NPHY312 OR/ OF 16
+Golfmeganika PC Agricultural
+MTHS223
+Sciences
+OR/ OF
+MTHS212
+OR/ OF
+MTHS222
+OR/ OF
+MTHS224
+Faculty of
+Thermodynamics/
+Natural and
+NPHY321 NPHY312 (40%) 16 PC
+Termodinamika Agricultural
+Sciences
+Nuclear Physics and
+Faculty of
+Elementary Particles/
+Natural and
+NPHY322 NPHY312 (40%) 16 PC
+Kernfisika en Elementêre Agricultural
+Deeltjies Sciences
+108Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Agricultural Degree / Landbougraad
+Phase out from Weeds: Interactions and Faculty of
+2025. Final Control/ Natural and
+OMSA422 deletion in 16 PC
+yearbook Dec Onkruid: Interaksies en Agricultural
+2026. Beheer Sciences
+Phase out from Faculty of
+2025. Final Plant Pathology / Natural and
+OMSA423 deletion in 16 PC Agricultural
+Plant Patologie
+yearbook Dec Sciences
+2026.
+Phase out from Faculty of
+2025. Final Agroecology / Natural and
+OMSE411 deletion in Agroekologie 16 PC Agricultural
+yearbook Dec Sciences
+2026.
+Projects and Seminar/ Faculty of
+Natural and
+OMSE474 Navorsingsprojek en 32 PC Agricultural
+Seminaar Sciences
+Pest Phenology and
+Phase out from
+Damage Symptoms/ Faculty of
+2025. Final
+Econometrics Natural and
+OMWP411 deletion in 16 PC
+Agricultural
+yearbook Dec Plaagfenologie en Skade-
+Sciences
+2026. simptome/ Ekonometrie
+Botany / Plantkunde
+Plant Structure and Faculty of
+PLKS111 Function (Mainstream)/ 12 MC Natural and
+PC Agricultural
+Plantstruktuur en -funksie
+Sciences
+Faculty of
+Biodiversity
+(Mainstream)/ MC Natural and
+PLKS122 PLKS111 (40%) 12
+PC Agricultural
+Biodiversiteit
+Sciences
+Faculty of
+Plant Structure and Natural and
+PLKS171 12 MC
+Function (Extended) Agricultural
+Sciences
+Faculty of
+Natural and
+PLKS172 Biodiversity (Extended) PLKS171 12 MC
+Agricultural
+Sciences
+Faculty of
+PLKS111
+Environmental Botany/ MC Natural and
+PLKS211 & 16
+Omgewings-plantkunde PC Agricultural
+PLKS122
+Sciences
+109Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Botany / Plantkunde
+Faculty of
+PLKS111
+Plant Genomics/ MC Natural and
+PLKS223 & 16
+Plantgenomika PC Agricultural
+PLKS122
+Sciences
+Faculty of
+Plant Physiology/
+Natural and
+PLKS314 PLKS312 PLKS223 32 PC
+Plantfisiologie Agricultural
+Sciences
+Faculty of
+Principles of Plant Natural and
+PLKS315 PLKS223 32 MC
+Physiology Agricultural
+Sciences
+Faculty of
+PLKS221
+Natural and
+PLKS321 Terrestrial Ecology & 32 MC
+Agricultural
+PLKS223
+Sciences
+Faculty of
+Plant Ecology/ PLKS211 Natural and
+PLKS324 PLKN323 & 32 PC
+Agricultural
+Plantekologie
+PLKS223
+Sciences
+Urban and Regional Planning / Stads- en Streekbeplanning
+Faculty of
+SANL225 Urban Anthropology 16 PC
+Humanities
+SBSS111, Faculty of
+Layout Planning/ SBSS121 Natural and
+SBES212 16 PC
+Uitlegbeplanning & Agricultural
+GEOG111 Sciences
+Faculty of
+Infrastructure Planning SBES212
+Natural and
+SBES313 Infrastruktuur- & 16 PC
+Agricultural
+beplanning SBSS223
+Sciences
+SBES212 (40%), Faculty of
+Regional Plans/ ECON112 Natural and
+SBRS221 16 PC
+Streekplanne & Agricultural
+ECON211 Sciences
+SBRS221 &
+Regional Development
+Faculty of
+ECON325 &
+Theory/ Natural and
+SBRS313 MTHS114 & 16 PC
+Streekontwikkelings- Agricultural
+STTN111 &
+teorie Sciences
+STTN124
+110Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Urban and Regional Planning / Stads- en Streekbeplanning
+Regional Analysis and Faculty of
+Application/
+Natural and
+SBRS411 SBRS313 16 PC
+Streeksanalise en - Agricultural
+toepassing Sciences
+Planning and Settlement Admission
+History/ requirements as Faculty of
+SBSS111 Beplanning- en described in N.1.6/ 12 PC Natural and
+Agricultural
+Nedersettings- Toelatings-vereistes
+Sciences
+Geskiedenis soos in N.1.6 beskryf
+Faculty of
+Introduction to Planning/ Natural and
+SBSS121 SBSS111 (40%) 12 PC
+Inleiding tot Beplanning Agricultural
+Sciences
+Faculty of
+SBSS223 Urban Design/ Natural and
+SBES212 (40%) 16 PC
+Stedelike Ontwerp Agricultural
+Sciences
+Planning for Sustainable
+Faculty of
+SBSS223
+SBSS313 Cities/ Natural and
+& 16 PC
+Beplanning vir Agricultural
+GEOG211
+Volhoubare Stede Sciences
+Transport Planning and
+Faculty of
+Systems/ SBES313 (40%)
+Natural and
+SBSS321 & 16 PC
+Vervoerbeplanning en Agricultural
+SBRS313 (40%)
+Stelsels Sciences
+Faculty of
+SBSS313 (40%)
+Planning Theory/ Natural and
+SBSS323 & 16 PC
+Beplanningsteorie
+SBRS313 (40%)
+Agricultural
+Sciences
+Integrated Housing Faculty of
+SBSS412 Development/ SRSK323 Natural and
+(continuous & 16 PC
+Geïntegreerde Agricultural
+assessment) SBSS323
+Behuisings-ontwikkeling Sciences
+Land Use Planning and Faculty of
+SBES313
+Development Policy/ Natural and
+SBSS414 & 16 PC
+Grondgebruik-beplanning Agricultural
+SBSS321
+en Ontwikkelingsbeleid Sciences
+Strategic- and
+Faculty of
+SANL225 &
+Participatory Planning/
+Natural and
+SBSS424 SBSS412 (40%) & 16 PC
+Strategiese- en Agricultural
+SBSS414 (40%)
+Deelnemende Beplanning Sciences
+111Module Descriptive Pre-Requisite
+Phasing
+Code / out/old Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module- Module Code/ Beskrywende Voorvereiste Kr Kampus Fakulteit
+kode Modulekode Naam Vak(ke)
+Urban and Regional Planning / Stads- en Streekbeplanning
+SBSS313 &
+SBRS313 &
+SBES313 &
+SBSS321 &
+Faculty of
+SBSS323 &
+Research Project /
+Natural and
+SBSS472 SECO321 & 32 PC
+Navorsingsprojek Agricultural
+SRSK323 &
+Sciences
+GEOG311 &
+ECON322 &
+WVNS211 & WVNS221
+& SANL225
+Urban Ecology for Faculty of
+Planners/ Natural and
+SECO321 SBSS313 (40%) 16 PC
+Stedelike Ekologie vir Agricultural
+Beplanners Sciences
+Research Methodology
+for Geo- and Spatial SBSS323
+Sciences/ & Faculty of
+Natural and
+SGSS414 Navorsings-metodologie WVNS211 16 PC
+Agricultural
+vir &
+Sciences
+Geo- en Ruimtelike WVNS221
+Wetenskappe
+Faculty of
+SBSS313 (40%)
+Urban Risk Management/ Natural and
+SRSK323 & 16 PC
+Stedelike Risikobestuur Agricultural
+GEOG311(40%)
+Sciences
+SBES313 &
+Faculty of
+SBSS321 &
+Planning Practice /
+Natural and
+SSBP421 SBSS414 (40%) & 16 PC
+Beplanningspraktyk Agricultural
+SBSS412 (40%) & Sciences
+SBRS411 (40%)
+Statistics / Statistiek
+Descriptive Statistics Faculty of
+STTN111 (Mainstream)/ 12 PC Natural and
+VC Agricultural
+Beskrywende Statistiek
+Sciences
+Descriptive Statistics and
+Faculty of
+Inference/ PC Natural and
+STTN115 12
+Beskrywende Statistiek VC Agricultural
+en Inferensie Sciences
+STTN111 (40%)
+Introductory Statistical
+Faculty of
+OR/ OF
+Inference I (Mainstream)/ PC Natural and
+STTN121 STTN115 (40%) 12
+Inleidende Statistiese VC Agricultural
+OR/ OF
+Inferensie I Sciences
+STTN122
+112Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Statistics / Statistiek
+Faculty of
+Introductory Statistics/
+Natural and
+STTN122 12 PC
+Inleidende Statistiek Agricultural
+Sciences
+STTN111 (40%)
+Faculty of
+OR/ OF
+Practical Statistics/ PC Natural and
+STTN124 STTN115 (40%) 12
+Praktiese Statistiek VC Agricultural
+OR/ OF
+Sciences
+STTN122
+STTN111 (40%) &
+MTHS111 (40%)
+Introductory Probability OR/ OF Faculty of
+Theory/ STTN115 (40%) & PC Natural and
+STTN125 12
+Inleidende MTHS111 (40%) VC Agricultural
+Waarskynlikheidsleer OR/ OF Sciences
+STTN122 &
+MTHS111 (40%)
+Statistics for Life
+Faculty of
+Sciences/
+Natural and
+STTK214 16 PC
+Statistiek vir Agricultural
+Lewenswetenskappe Sciences
+STTN125
+Probability and Sampling & Faculty of
+Theory/ MTHS121 PC Natural and
+STTN215 16
+Waarskynlikheidsleer en OR/ OF VC Agricultural
+Steekproefteorie STTF215 & STTF225 & Sciences
+MTHS121
+Statistical Inference and
+Faculty of
+Data Analysis/ PC Natural and
+STTN225 STTN215 (40%) 16
+Statistiese Inferensie en VC Agricultural
+Data-analise Sciences
+STTK312
+Faculty of
+(Eng Engineering Statistics/
+Natural and
+Program- MTHS121 16 PC
+Ingenieurs Statistiek Agricultural
+mes)
+Sciences
+Faculty of
+Linear Models I/ PC Natural and
+STTN316 STTN225 24
+Lineêre Modelle I VC Agricultural
+Sciences
+Statistical Software and
+Faculty of
+Applications I/ PC Natural and
+STTN317 STTN225 8
+Statistiese Sagteware en VC Agricultural
+Toepassings I Sciences
+113Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Statistics / Statistiek
+Analysis of Dependent Faculty of
+Data/ PC Natural and
+STTN326 STTN225 16
+Analise van Afhanklike VC Agricultural
+Data Sciences
+Statistical Software and
+Faculty of
+Applications II/ PC Natural and
+STTN327 STTN317 (40%) 16
+Statistiese Sagteware en VC Agricultural
+Toepassings II Sciences
+Descriptive Statistics Faculty of
+(Extended)/ Natural and
+STTF115 12 VC
+Agricultural
+Beskrywende Statistiek
+Sciences
+Introductory Statistical Faculty of
+Inference (Extended)/ Natural and
+STTF125 STTF115 (40%) 16 VC Agricultural
+Inleidende Statistiese
+Sciences
+Inferensie
+Faculty of
+Practical Statistics/
+Natural and
+STTF215 STTF125 16 VC
+Praktiese Statistiek Agricultural
+Sciences
+Introduction to Faculty of
+STTF215 (40%)
+Probability/ Natural and
+STTF225 & 16 VC Agricultural
+Inleiding tot
+MTHS111 Sciences
+Waarskynlikheidsleer
+Tourism / Toerisme
+Introduction to Tourism Faculty of
+Management/
+Economic and
+TMBP111 12 PC
+Inleiding tot Management
+Toerismebestuur Sciences
+Applied Tourism
+Faculty of
+Management/ Economic and
+TMBP211 16 PC
+Toegepaste Management
+Toerismebestuur Sciences
+Faculty of
+Tourism Marketing/
+Economic and
+TMBP221 16 PC
+Toerismebemarking Management
+Sciences
+Introduction to Event
+Management (Choice Faculty of
+TMBP312 Module)/ 16 PC Economic and
+Management
+Inleiding tot
+Sciences
+Gebeurtenisbestuur
+114Faculty of
+Nature Tourism/
+Economic and
+TMBP313 16 PC
+Natuur-Toerisme Management
+Sciences
+Module Descriptive Pre-Requisite
+Phasing out/old
+Code / Name / Subject(s)/ Cr/ Campus/ Faculty/
+Module Code/
+Module- Beskrywende Voorvereiste Kr Kampus Fakulteit
+Modulekode
+kode Naam Vak(ke)
+Tourism / Toerisme
+Game Farm Faculty of
+TMBP321 Management/ 16 PC Economic and
+Management
+Wildplaasbestuur
+Sciences
+TMBP322
+Applied Event
+Faculty of
+Choice Management/ Economic and
+Module/ 16 PC
+Toegepaste Management
+Keuse-
+Gebeurtenisbestuur Sciences
+module
+Understand the World / Verstaan die Wêreld
+WVCS223 Understanding the Faculty of
+None 12 MC
+(BIKS) Cultural World Humanities
+WVLS317 Faculty of
+Note 2 Man and Society None 16 MC Humanities
+(BIKS)
+Understanding the Faculty of
+Economic World/ PC Economic and
+WVES222 12 Management
+Verstaan die Ekonomiese VC
+Sciences
+Wêreld
+Faculty of
+Business Ethics/ PC Economic and
+WVES312 12
+Besigheidsetiek VC Management
+Sciences
+Understanding the Faculty of
+WVNS211
+Natural World/ PC Natural and
+(Continuous 12 Agricultural
+Verstaan die Natuurlike VC
+assessment) Sciences
+Wêreld
+Science, Technology and Faculty of
+WVNS221
+Society/ PC Natural and
+(Continuous 12 Agricultural
+Wetenskap, Tegnologie VC
+assessment) Sciences
+en Samelewing
+115

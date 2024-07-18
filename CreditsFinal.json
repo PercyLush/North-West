@@ -1,0 +1,3431 @@
+[
+  {
+    "Code": "ACCS111",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "ACCS121",
+    "Prerequisite": [
+      "ACCS111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ACFS111",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "ACFS121",
+    "Prerequisite": [
+      "ACFS111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "AECM221",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM223",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM311",
+    "Prerequisite": [
+      "AECM111",
+      "AECM312",
+      "AECM312",
+      "AECM111",
+      "AECM327"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM313",
+    "Prerequisite": [
+      "AECM111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM314",
+    "Prerequisite": [
+      "AECM111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM315",
+    "Prerequisite": [
+      "AECM111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM316",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM321",
+    "Prerequisite": [
+      "AECM111",
+      "AECM322",
+      "AECM111",
+      "AECM322",
+      "AECM316",
+      "AECM311"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM323",
+    "Prerequisite": [
+      "AECM314",
+      "AECM111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM325",
+    "Prerequisite": [
+      "AECM311"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM326",
+    "Prerequisite": [
+      "AECM314"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM327",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM411",
+    "Prerequisite": [
+      "AECM314"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM412",
+    "Prerequisite": [
+      "AECM311"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM413",
+    "Prerequisite": [
+      "AECM325"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM414",
+    "Prerequisite": [
+      "AECM313"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM415",
+    "Prerequisite": [
+      "AECM314"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM421",
+    "Prerequisite": [
+      "AECM314"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM422",
+    "Prerequisite": [
+      "AECM423",
+      "AECM423",
+      "AECM326",
+      "AECM221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECM424",
+    "Prerequisite": [
+      "AECM424",
+      "AECM311"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AECM425",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP121",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "AECP211",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP223",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP311",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP321",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP322",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP611",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP612",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP621",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AECP622",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AEDM111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "AEDM314",
+    "Prerequisite": [
+      "AEDM111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AEXM211",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AEXM212",
+    "Prerequisite": [
+      "AEXM211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AEXM222",
+    "Prerequisite": [
+      "AEXM211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AEXM324",
+    "Prerequisite": [
+      "AEXM222"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AXDM211",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AXDM311",
+    "Prerequisite": [
+      "ALDE111",
+      "AGLE111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "ALDA111",
+    "Prerequisite": [
+      "AGLA111",
+      "ALDE111",
+      "ALDE122",
+      "AGLE122"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ALDA122",
+    "Prerequisite": [
+      "AGLA122",
+      "OF 12",
+      "ALDA111",
+      "AHBM321",
+      "AHBM321",
+      "AHPM312",
+      "AHDR327",
+      "AHDM316",
+      "AHDM316",
+      "AHVM111",
+      "I 8",
+      "MC 121",
+      "AHDM317",
+      "AHDM317",
+      "AHVM111",
+      "AHDM326",
+      "AHDM326",
+      "II 8",
+      "AHDM327",
+      "AHDM327"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHDR111",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR121",
+    "Prerequisite": [
+      "AHDR111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR211",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHDR212",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR213",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR221",
+    "Prerequisite": [
+      "AHDR211"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHDR222",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHDR311",
+    "Prerequisite": [
+      "AHDR222"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR312",
+    "Prerequisite": [
+      "AHDR222"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR313",
+    "Prerequisite": [
+      "MTHS114"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR314",
+    "Prerequisite": [
+      "AHDR211",
+      "AHDR211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR315",
+    "Prerequisite": [
+      "AHDR222"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR316",
+    "Prerequisite": [
+      "AHDR211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR317",
+    "Prerequisite": [
+      "AHDR222",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR321",
+    "Prerequisite": [
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR322",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR211",
+      "AHDR221"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR323",
+    "Prerequisite": [
+      "AHDR311",
+      "AHDR312",
+      "AHDR211",
+      "AHDR221",
+      "AHDR311"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHDR324",
+    "Prerequisite": [
+      "AHDR312",
+      "AHDR314",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR325",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR211",
+      "AHDR221",
+      "AHDR326",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR327",
+    "Prerequisite": [
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR412",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR413",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR421",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR322",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR422",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR326",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHDR471",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR321",
+      "AHDR323",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHDR472",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR321",
+      "AHDR323",
+      "AHDR314",
+      "AHDR324"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "AHDR473",
+    "Prerequisite": [
+      "AHDR325",
+      "AHDR311",
+      "AHDR312"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHDR474",
+    "Prerequisite": [
+      "AHDR316",
+      "AHDR321",
+      "AHDR327"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHDR476",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHLH111",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH112",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHLH121",
+    "Prerequisite": [
+      "AHLH111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH122",
+    "Prerequisite": [
+      "AHLH112"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHLH123",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "AHLH124",
+    "Prerequisite": [
+      "AHLH112",
+      "AHLH112",
+      "AHLH122"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH211",
+    "Prerequisite": [
+      "AHLH124"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH212",
+    "Prerequisite": [
+      "AHLH112",
+      "AHLH122"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH213",
+    "Prerequisite": [
+      "AHLH112",
+      "AHLH122",
+      "AHLH112",
+      "AHLH122"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH221",
+    "Prerequisite": [
+      "AHLH124",
+      "AHLH211",
+      "AHLH112",
+      "AHLH122"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH222",
+    "Prerequisite": [
+      "AHLH124",
+      "AHLH211",
+      "AHLH112",
+      "AHLH122"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH223",
+    "Prerequisite": [
+      "AHLH213",
+      "AHLH112",
+      "AHLH122"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH224",
+    "Prerequisite": [
+      "AHLH124",
+      "AHLH211",
+      "AHLH124"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH225",
+    "Prerequisite": [
+      "AHLH211",
+      "AHLH212",
+      "AHLH124"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH226",
+    "Prerequisite": [
+      "AHLH211",
+      "AHLH212",
+      "AHLH124",
+      "AHLH211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH312",
+    "Prerequisite": [
+      "AHLH221",
+      "AHLH212",
+      "MTHS115",
+      "AHLH124",
+      "AHLH211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH313",
+    "Prerequisite": [
+      "AHLH221",
+      "AHLH212",
+      "AHLH112",
+      "AHLH122",
+      "AHLH314"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH124",
+    "Prerequisite": [
+      "AHLH211",
+      "AHLH221",
+      "AHLH124",
+      "AHLH211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH321",
+    "Prerequisite": [
+      "AHLH221",
+      "AHLH212",
+      "AHLH225",
+      "AHLH124",
+      "AHLH211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH322",
+    "Prerequisite": [
+      "AHLH221",
+      "AHLH212",
+      "AHLH124",
+      "AHLH211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH323",
+    "Prerequisite": [
+      "AHLH221",
+      "AHLH212",
+      "AHLH314",
+      "AHLH124",
+      "AHLH211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHLH371",
+    "Prerequisite": [
+      "AHLH221",
+      "AHLH212",
+      "AHLH224",
+      "AHLH226",
+      "AHLH 124",
+      "AHLH 211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHLH372",
+    "Prerequisite": [
+      "AHLH 221",
+      "AHLH 212",
+      "AHLH 224",
+      "AHLH 226",
+      "AHLH 124",
+      "AHLH 211",
+      "AHLH 221",
+      "AHLH 212"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "AHLH373",
+    "Prerequisite": [
+      "AHLH 213",
+      "AHLH 223",
+      "AHLH 226",
+      "AHLH 124",
+      "AHLH 211",
+      "AHLH 221",
+      "AHLH 212"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHLH374",
+    "Prerequisite": [
+      "AHLH 312",
+      "AHLH 314"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHPM211",
+    "Prerequisite": [
+      "AHDR111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHPM212",
+    "Prerequisite": [
+      "AHPM213",
+      "AHPM213",
+      "AHDR222",
+      "AHPM214",
+      "AHPM214",
+      "AHDR211",
+      "AHPM216",
+      "AHPM216",
+      "AHDR111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "AHPM221",
+    "Prerequisite": [
+      "AHPM223",
+      "AHPM223",
+      "AHPM212",
+      "AHDR121",
+      "AHPM224",
+      "AHPM224",
+      "AHDR212",
+      "AHPM225",
+      "AHPM225",
+      "AHDR121",
+      "AHPM311",
+      "AHPM311",
+      "AHPM211",
+      "AHDR311",
+      "AHPM313",
+      "AHPM313",
+      "AHPM212"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "AHPM326",
+    "Prerequisite": [
+      "AHPM327",
+      "AHPM327",
+      "AHPM311",
+      "AHDR326",
+      "AHPM329",
+      "AHPM211",
+      "AHPM329",
+      "AHPM313",
+      "AHDR324",
+      "AHPM411",
+      "AHPM211",
+      "AHPM411",
+      "AHPM313",
+      "AHDR471",
+      "AHPM412",
+      "AHPM211",
+      "AHPM412",
+      "AHPM313",
+      "AHDR472",
+      "AHPM415",
+      "AHPM415",
+      "AHDR475",
+      "AHPM416",
+      "AHPM416",
+      "II 8",
+      "AHPM417",
+      "AHPM417",
+      "AHPM211",
+      "AHPM421",
+      "AHPM421",
+      "AHPM313",
+      "AHDR471",
+      "AHPM411",
+      "AHPM422",
+      "AHPM211",
+      "AHPM422",
+      "AHPM313",
+      "AHDR472",
+      "AHPM211",
+      "AHPM424",
+      "AHPM424",
+      "AHPM313",
+      "AHPM425",
+      "AHPM425",
+      "AHPM415",
+      "AHDR475",
+      "AHPM426",
+      "AHPM311",
+      "AHPM426",
+      "OF 8",
+      "AHPM321",
+      "AHDR413",
+      "AHPM427",
+      "AHPM427",
+      "AHVM111",
+      "AHVM111",
+      "AHLH112",
+      "AHVM112",
+      "AHVM112",
+      "AHLH111",
+      "AHVM121",
+      "AHVM121",
+      "AHLH123",
+      "AHVM122",
+      "AHVM122",
+      "AHVM111",
+      "AHLH122",
+      "AHVM123",
+      "AHVM111",
+      "AHVM123",
+      "AHLH121",
+      "AHVM211",
+      "AHVM211",
+      "I 16",
+      "AHLH124",
+      "AHVM212",
+      "AHVM111",
+      "AHVM212",
+      "AHVM213",
+      "AHLH212",
+      "AHVM213",
+      "AHVM213",
+      "AHVM111",
+      "AHVM214",
+      "AHVM214",
+      "AHVM111",
+      "AHLH213",
+      "AHVM222",
+      "AHVM111",
+      "AHVM222"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANDM121",
+    "Prerequisite": [
+      "ANDM122",
+      "ANDM122",
+      "ANDM123"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANDM123",
+    "Prerequisite": [
+      "ANDM121"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANDM211",
+    "Prerequisite": [
+      "MCHE115"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM212",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANDM213",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANDM221",
+    "Prerequisite": [
+      "ANDM121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM223",
+    "Prerequisite": [
+      "ANDM121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM225",
+    "Prerequisite": [
+      "ANDM225"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM226",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM312",
+    "Prerequisite": [
+      "ANDM121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM313",
+    "Prerequisite": [
+      "ANDM121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM314",
+    "Prerequisite": [
+      "ANDM121",
+      "ANDM121",
+      "ANDM221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANDM321",
+    "Prerequisite": [
+      "ANDM312"
+    ],
+    "Credit": "56"
+  },
+  {
+    "Code": "ANSM121",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANSM211",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM214",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANSM223",
+    "Prerequisite": [
+      "ANSM 211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM224",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANSM226",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANSM311",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM312",
+    "Prerequisite": [
+      "ANSM121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM313",
+    "Prerequisite": [
+      "AHPM212"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANSM314",
+    "Prerequisite": [
+      "AHPM221",
+      "ANSM211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM321",
+    "Prerequisite": [
+      "ANSM223"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM322",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANSM323",
+    "Prerequisite": [
+      "ANSM 226"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM326",
+    "Prerequisite": [
+      "ANSM211",
+      "ANSM411",
+      "ANSM416"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANSM412",
+    "Prerequisite": [
+      "ANSM323"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM413",
+    "Prerequisite": [
+      "ANSM479"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM414",
+    "Prerequisite": [
+      "ANSM415"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANSM415",
+    "Prerequisite": [
+      "ANSM211"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANSM416",
+    "Prerequisite": [
+      "ANSM223",
+      "ANSM421",
+      "ANSM421",
+      "ANSM479"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ANSM423",
+    "Prerequisite": [
+      "ANSM424"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "ANSM426",
+    "Prerequisite": [
+      "ANSM211"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANSM427",
+    "Prerequisite": [
+      "ANSM211",
+      "ANSM313"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANSM428",
+    "Prerequisite": [
+      "ANSM314"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ANSM479",
+    "Prerequisite": [
+      "APPM111",
+      "OR 12",
+      "GR12",
+      "APPM121",
+      "MTHS111",
+      "NPHY111",
+      "MTHS111",
+      "NPHY111"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "APPM122",
+    "Prerequisite": [
+      "APPM111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "APPM171",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "APPM172",
+    "Prerequisite": [
+      "APPM171",
+      "MTHS111",
+      "MTHS121"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "APPM211",
+    "Prerequisite": [
+      "APPM121",
+      "APPM122",
+      "MTHS111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "APPM212",
+    "Prerequisite": [
+      "MTHS121",
+      "MTHS111",
+      "MTHS121"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "APPM213",
+    "Prerequisite": [
+      "APPM121",
+      "APPM122",
+      "APPM212",
+      "APPM121"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "APPM221",
+    "Prerequisite": [
+      "APPM122",
+      "MTHS111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "APPM222",
+    "Prerequisite": [
+      "MTHS121",
+      "MTHS211",
+      "MTHS212"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "APPM223",
+    "Prerequisite": [
+      "APPM212",
+      "APPM213",
+      "MTHS221",
+      "APPM311",
+      "OF 16",
+      "MTHS223",
+      "APPM212",
+      "APPM222",
+      "MTHS211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "APPM312",
+    "Prerequisite": [
+      "MTHS212",
+      "APPM222",
+      "MTHS211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "APPM313",
+    "Prerequisite": [
+      "APMM328",
+      "MTHS212",
+      "APPM212",
+      "MTHS211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "APPM321",
+    "Prerequisite": [
+      "MTHS222",
+      "MTHS224",
+      "MTHS211",
+      "MTHS212",
+      "APPM322",
+      "APMM317",
+      "APPM211",
+      "APPM213",
+      "MTHS224",
+      "APPM212",
+      "APPM223",
+      "MTHS221",
+      "APPM323",
+      "APMM327",
+      "OF 16",
+      "MTHS223",
+      "MTHS222",
+      "MTHS224",
+      "BCDT311",
+      "BCHF215",
+      "BCHG221",
+      "NCHE111",
+      "NCHE121",
+      "IBCH221",
+      "NCHE111",
+      "BCHN213"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "NCHE121",
+    "Prerequisite": [],
+    "Credit": "121"
+  },
+  {
+    "Code": "BCHN214",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "NCHE111",
+    "Prerequisite": [
+      "BCHN222",
+      "NCHE121"
+    ],
+    "Credit": "121"
+  },
+  {
+    "Code": "BCHN213",
+    "Prerequisite": [
+      "BCHS316",
+      "BCHN222",
+      "BCHN213",
+      "BCHS317",
+      "MCBN121",
+      "MCBN111",
+      "BCHS321",
+      "BCHN222",
+      "BCHN213",
+      "BCHS322",
+      "BCHN222",
+      "MCBN111",
+      "MCBN121"
+    ],
+    "Credit": "222"
+  },
+  {
+    "Code": "MCBN171",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "MCBN172",
+    "Prerequisite": [
+      "MCBN171"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "BMAN111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "BMAN121",
+    "Prerequisite": [
+      "BMAN223",
+      "BWIA111",
+      "BWIA111",
+      "BWIA121",
+      "MTHS111",
+      "BWIA121"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "BWIA272",
+    "Prerequisite": [
+      "MTHS121"
+    ],
+    "Credit": "24"
+  },
+  {
+    "Code": "BWIA121",
+    "Prerequisite": [
+      "BWIA273",
+      "MTHS121",
+      "BWIA271",
+      "BWIA313",
+      "BWIA272",
+      "BWIA273",
+      "BWIA271"
+    ]
+  },
+  {
+    "Code": "BWIA314",
+    "Prerequisite": [
+      "OF 12",
+      "BWIA272",
+      "BWIA271"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "BWIA324",
+    "Prerequisite": [
+      "OF 12",
+      "BWIA272",
+      "BWIA271"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "BWIA371",
+    "Prerequisite": [
+      "OF 32",
+      "BWIA272",
+      "BWIA111",
+      "BWIN321",
+      "MTHS111"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "CMPG111",
+    "Prerequisite": [
+      "ITRW111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CMPG112",
+    "Prerequisite": [
+      "ITRW112"
+    ]
+  },
+  {
+    "Code": "CISM112",
+    "Prerequisite": []
+  },
+  {
+    "Code": "CMPG115",
+    "Prerequisite": [
+      "ITRW115"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CMPG111",
+    "Prerequisite": [
+      "ITRW124"
+    ]
+  },
+  {
+    "Code": "CMPG121",
+    "Prerequisite": [
+      "OF 12",
+      "CISM122"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CMPG115",
+    "Prerequisite": [
+      "CMPG111",
+      "CMPG122",
+      "ITRW123",
+      "OF 12",
+      "CMPG115"
+    ]
+  },
+  {
+    "Code": "CMPG171",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CMPG172",
+    "Prerequisite": [
+      "CMPG171",
+      "ITRW212"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CMPG211",
+    "Prerequisite": [
+      "CMPG121",
+      "CISM214"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CMPG212",
+    "Prerequisite": [
+      "ITRW211",
+      "CMPG122",
+      "CMPG121",
+      "CMPG213",
+      "ITRW213",
+      "OF 16",
+      "CMPG122",
+      "CMPG214",
+      "CMPG121",
+      "ITRW315",
+      "OF 8",
+      "CMPG122",
+      "CMPG121"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CMPG215",
+    "Prerequisite": [
+      "OF 8",
+      "CMPG122",
+      "ITRW222"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CMPG221",
+    "Prerequisite": [
+      "CISM213",
+      "CMPG211",
+      "MTHS111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CMPG222",
+    "Prerequisite": [
+      "STTN121",
+      "CMPG111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CMPG223",
+    "Prerequisite": [
+      "ITRW225",
+      "CMPG213",
+      "CISM226"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CMPG224",
+    "Prerequisite": [
+      "CMPG121",
+      "CMPG224"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CMPG221",
+    "Prerequisite": [],
+    "Credit": "221"
+  },
+  {
+    "Code": "CMPG311",
+    "Prerequisite": [
+      "ITRW311",
+      "OF 16"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CMPG223",
+    "Prerequisite": [],
+    "Credit": "223"
+  },
+  {
+    "Code": "MTHS111",
+    "Prerequisite": [
+      "CMPG312",
+      "ITRW214",
+      "ITRW317"
+    ],
+    "Credit": "114"
+  },
+  {
+    "Code": "CMPG313",
+    "Prerequisite": [
+      "CMPG221",
+      "CISM326"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ITRW322",
+    "Prerequisite": [
+      "CMPG315",
+      "CMPG221"
+    ]
+  },
+  {
+    "Code": "CISM327",
+    "Prerequisite": []
+  },
+  {
+    "Code": "CMPG321",
+    "Prerequisite": [
+      "ITRW321",
+      "CMPG311"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CMPG322",
+    "Prerequisite": [
+      "ITRW325",
+      "CMPG312",
+      "CMPG221",
+      "CMPG323",
+      "ITRW324",
+      "CMPG311"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CMPG324",
+    "Prerequisite": [
+      "ITRW316",
+      "CMPG221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CMPG325",
+    "Prerequisite": [
+      "CMPG221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ITSP111",
+    "Prerequisite": [
+      "ITSP113"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ITSP114",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "ITSP121",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSDM111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSDM121",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSDM211",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSDM212",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSDM213",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSDM215",
+    "Prerequisite": [
+      "CSDM121"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSDM221",
+    "Prerequisite": [
+      "CSDM111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSDM222",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSDM223",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSDM224",
+    "Prerequisite": [
+      "II 8"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSDM225",
+    "Prerequisite": [
+      "CSDM121",
+      "CSDM211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSDM311",
+    "Prerequisite": [
+      "CSDM223",
+      "CSDM215"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSDM312",
+    "Prerequisite": [
+      "CSDM225",
+      "CSDM211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSDM315",
+    "Prerequisite": [
+      "CSDM222",
+      "CSDM211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSDM321",
+    "Prerequisite": [
+      "CSDM223",
+      "CSDM215"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSDM322",
+    "Prerequisite": [
+      "CSDM225"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSDM323",
+    "Prerequisite": [
+      "CSDM111",
+      "CSDM211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSDM324",
+    "Prerequisite": [
+      "CSDM223"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSDM371",
+    "Prerequisite": [
+      "CSDM224",
+      "CSPM326"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPS411",
+    "Prerequisite": [
+      "ANSM312",
+      "CSPM313"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPS412",
+    "Prerequisite": [
+      "CSPM323",
+      "NCHE111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPM211",
+    "Prerequisite": [
+      "NCHE121",
+      "CSPM212"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPM213",
+    "Prerequisite": [
+      "CSPM221",
+      "NCHE111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM222",
+    "Prerequisite": [
+      "NCHE121",
+      "MCBN111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPM223",
+    "Prerequisite": [
+      "MCBN121",
+      "MCBN111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPM225",
+    "Prerequisite": [
+      "MCBN121"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPM211",
+    "Prerequisite": [
+      "GDKN121",
+      "CSPM311",
+      "GDKN211",
+      "CSPM221",
+      "CSPM221",
+      "CSPM222",
+      "CSPM313",
+      "GDKN121"
+    ]
+  },
+  {
+    "Code": "GDKN211",
+    "Prerequisite": []
+  },
+  {
+    "Code": "CSPM315",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM317",
+    "Prerequisite": [
+      "CSPM221"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPM319",
+    "Prerequisite": [
+      "CSPM221"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM211",
+    "Prerequisite": [
+      "GDKN121",
+      "CSPM321",
+      "CSPM221"
+    ]
+  },
+  {
+    "Code": "CSPM322",
+    "Prerequisite": [
+      "CSPM221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPM323",
+    "Prerequisite": [
+      "CSPM221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPM211",
+    "Prerequisite": [
+      "GDKN121",
+      "CSPM324",
+      "CSPM221"
+    ]
+  },
+  {
+    "Code": "CSPM325",
+    "Prerequisite": [
+      "CSPM221"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM326",
+    "Prerequisite": [
+      "CSPM221",
+      "CSPM211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM327",
+    "Prerequisite": [
+      "CSSS423",
+      "CSPM221",
+      "CSPM311"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM411",
+    "Prerequisite": [
+      "CSPM321"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM415",
+    "Prerequisite": [
+      "CSPM211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPM416",
+    "Prerequisite": [
+      "CSPM211",
+      "CSPM211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "CSPM419",
+    "Prerequisite": [
+      "CSPM222"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPM421",
+    "Prerequisite": [
+      "CSPM317"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPM425",
+    "Prerequisite": [
+      "CSPM319",
+      "CSPM322"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPM426",
+    "Prerequisite": [
+      "CSPM225"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPM474",
+    "Prerequisite": [
+      "ANSM312"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "CSPM479",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPP211",
+    "Prerequisite": [
+      "PLKS111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPP212",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPP221",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "CSPP311",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPP321",
+    "Prerequisite": [
+      "CSPP211",
+      "CSPP221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPP411",
+    "Prerequisite": [
+      "GDKN222",
+      "CSPP221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPP412",
+    "Prerequisite": [
+      "GDKN222",
+      "CSPP221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPP421",
+    "Prerequisite": [
+      "GDKN222"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "CSPP422",
+    "Prerequisite": [
+      "DRKN211",
+      "DRKS111",
+      "DRKS121",
+      "DRKN321",
+      "DRKN211",
+      "DRKS221",
+      "DRKS311"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "DRKS111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "DRKS121",
+    "Prerequisite": [
+      "DRKS111",
+      "DRKS211",
+      "DRKN211",
+      "DRKS111",
+      "DRKS121",
+      "DRKS221",
+      "DRKS111",
+      "DRKS121",
+      "DRKN222",
+      "DRKS221",
+      "DRKS111",
+      "DRKS121",
+      "DRKN211"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "DRKS311",
+    "Prerequisite": [
+      "DRKS221",
+      "DRKS321",
+      "DRKN321",
+      "DRKS211",
+      "DRKN222",
+      "DRKS322",
+      "DRKN211",
+      "DRKS322",
+      "DRKS221",
+      "DRKS311",
+      "ECON112",
+      "ECON111",
+      "ECON122",
+      "ECON121",
+      "ECON122",
+      "MTHS111",
+      "STTN111",
+      "STTN115",
+      "ECON211",
+      "STTN124",
+      "STFM111",
+      "STFM112",
+      "STFM125",
+      "ECON112",
+      "STFM111",
+      "ECON212",
+      "STFM112",
+      "ECON111",
+      "MTHS111",
+      "STTN111",
+      "STTN115",
+      "STTN124",
+      "ECON221",
+      "STFM111",
+      "STFM112",
+      "STFM125",
+      "ECON222",
+      "ECON313",
+      "ECON314",
+      "ECON322",
+      "ECON325",
+      "EKRP211"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "EKRP221",
+    "Prerequisite": [
+      "EKRP311",
+      "EKRP321",
+      "APS 26"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ELYM115",
+    "Prerequisite": [
+      "APS 26"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ELYM127",
+    "Prerequisite": [
+      "ELYM115",
+      "ELYM127"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "ELYM215",
+    "Prerequisite": [
+      "OF 16",
+      "SFEM171",
+      "SFEM172",
+      "ELYM115",
+      "ELYM127"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ELYM227",
+    "Prerequisite": [
+      "OF 16",
+      "SFEM171",
+      "SFEM172",
+      "ELYM215"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ELYM315",
+    "Prerequisite": [
+      "ELYM227",
+      "ELYM215"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ELYM316",
+    "Prerequisite": [
+      "ELYM227",
+      "ELYM215"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ELYM327",
+    "Prerequisite": [
+      "ELYM227",
+      "ELYM215"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "ELYM328",
+    "Prerequisite": [
+      "ELYM227"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SFEM171",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "SFEM172",
+    "Prerequisite": [
+      "SFEM171",
+      "ACCC122"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "FINM272",
+    "Prerequisite": [
+      "FINM221",
+      "FINM271",
+      "ACCF121"
+    ]
+  },
+  {
+    "Code": "FINM271",
+    "Prerequisite": [
+      "MTHS112",
+      "OR 111"
+    ]
+  },
+  {
+    "Code": "FKLT331",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "FLGX113",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "FLGX123",
+    "Prerequisite": [
+      "FLGX113"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "FLGX213",
+    "Prerequisite": [
+      "FLGX113",
+      "FLGX113"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "FLGX223",
+    "Prerequisite": [
+      "FLGX123",
+      "FLGX113"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "FLGX224",
+    "Prerequisite": [
+      "FLGX213"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "FLGX312",
+    "Prerequisite": [
+      "FLGX113"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "FLGX313",
+    "Prerequisite": [
+      "FLGX113"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "FLGX317",
+    "Prerequisite": [
+      "FLGX113"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "FLGX325",
+    "Prerequisite": [
+      "FLGX113"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "FLGX328",
+    "Prerequisite": [
+      "FLGX113"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "FLGX329",
+    "Prerequisite": [
+      "FLGX113"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "GDKN121",
+    "Prerequisite": [
+      "GDKN212",
+      "GDKN211",
+      "GDKN211"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "GDKN121",
+    "Prerequisite": [
+      "GDKN212"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN221",
+    "Prerequisite": [
+      "GDKN211",
+      "GDKN222"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN212",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN311",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN312",
+    "Prerequisite": [
+      "GDKN121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN313",
+    "Prerequisite": [
+      "GDKN121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN322",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN323",
+    "Prerequisite": [
+      "GDKN121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN324",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN325",
+    "Prerequisite": [
+      "GDKN312"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN411",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "GDKN421",
+    "Prerequisite": [
+      "CSPP221"
+    ],
+    "Credit": "24"
+  },
+  {
+    "Code": "GDKN422",
+    "Prerequisite": [
+      "GDKN222",
+      "GEOG111",
+      "GEOG121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GEOG171",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "GEOG172",
+    "Prerequisite": [
+      "GEOG171",
+      "GEOG211",
+      "GEOG111",
+      "MTHS111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "GEOG212",
+    "Prerequisite": [
+      "OF 8",
+      "MTHS121",
+      "GEOG221",
+      "GEOG121"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "GEOG211",
+    "Prerequisite": [
+      "GEOG311"
+    ]
+  },
+  {
+    "Code": "GEOG221",
+    "Prerequisite": [
+      "GEOG211",
+      "GEOG221",
+      "GEOG321",
+      "GEOG311"
+    ],
+    "Credit": "221"
+  },
+  {
+    "Code": "GLGN112",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "GLGN122",
+    "Prerequisite": [
+      "GLGN112",
+      "GLGN112"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "GLGN211",
+    "Prerequisite": [
+      "GLGN122",
+      "GLGN112",
+      "GLGN122"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GLGN221",
+    "Prerequisite": [
+      "GLGN211",
+      "GLGN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "GLGN311",
+    "Prerequisite": [
+      "GLGN221",
+      "GLGN211",
+      "GLGN221"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "GLGN321",
+    "Prerequisite": [
+      "GLGN311",
+      "NOTE 1",
+      "NOTE 2",
+      "NOTE 3",
+      "NOTE 4",
+      "IKSA311",
+      "IKSM114",
+      "IKSA321",
+      "IKSA322",
+      "IKSM224",
+      "IKSA323",
+      "IKSM125",
+      "IKSA413",
+      "IKSC311",
+      "ISKM115",
+      "IKSC312",
+      "IKSC321",
+      "IKSC322",
+      "IKSC323",
+      "IKSC413",
+      "IKSH311",
+      "IKSM213",
+      "IKSH312",
+      "IKSH314",
+      "IKSH321",
+      "IKSM113",
+      "IKSM124",
+      "IKSH322",
+      "IKSM113",
+      "IKSM124",
+      "IKSM113",
+      "IKSH323",
+      "IKSM124"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "IKSH411",
+    "Prerequisite": [
+      "IKSM111",
+      "IKSM112",
+      "IKSM113",
+      "IKSM114",
+      "IKSM115",
+      "IKSM121",
+      "IKSM122",
+      "IKSM123",
+      "IKSM124",
+      "IKSM125",
+      "IKSM211",
+      "IKSM212",
+      "IKSM213",
+      "IKSM214",
+      "IKSM215",
+      "IKSM221",
+      "IKSM222",
+      "IKSM223",
+      "IKSM224",
+      "IKSM225",
+      "IKSM313",
+      "IKSM111",
+      "IKSM121",
+      "IKSM411",
+      "IKSM412",
+      "IKSM421",
+      "IKSM411",
+      "IKSM412",
+      "IKSM111",
+      "IKSS311",
+      "IKSM121",
+      "IKSM122",
+      "IKSM111",
+      "IKSS312",
+      "IKSM121",
+      "IKSS321",
+      "IKSM111",
+      "IKSM121",
+      "IKSM111",
+      "IKSS322",
+      "IKSM121",
+      "IKSS311",
+      "IKSS323",
+      "IKSM111",
+      "IKSM121",
+      "IKSS324",
+      "IKSM111",
+      "IKSM121",
+      "IKSS413",
+      "IKSS321",
+      "MKBN121",
+      "NCHE111",
+      "MKBN211",
+      "NCHE121",
+      "MKBS221",
+      "MKBN211",
+      "MKBN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBS313",
+    "Prerequisite": [
+      "MKBS221",
+      "MKBN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBS313",
+    "Prerequisite": [
+      "MKBS221",
+      "MKBN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBS314",
+    "Prerequisite": [
+      "MKBS221",
+      "MKBN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBS316",
+    "Prerequisite": [
+      "MKBS221",
+      "MKBN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBS317",
+    "Prerequisite": [
+      "MKBS221",
+      "MKBN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBS325",
+    "Prerequisite": [
+      "MKBS221",
+      "MKBN211"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "MKBS326",
+    "Prerequisite": [
+      "MKBS221",
+      "MKBN211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBS327",
+    "Prerequisite": [
+      "MKBS221"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MKBX213",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "MKPN111",
+    "Prerequisite": [
+      "MTHS111",
+      "MTHS114"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS111",
+    "Prerequisite": [
+      "MTHS113",
+      "MTHS114",
+      "MTHS112",
+      "MTHS123"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS112",
+    "Prerequisite": [
+      "OF 12",
+      "WISS113",
+      "WISS123",
+      "MTHS113",
+      "MTHS112",
+      "MTHS123",
+      "MTHS114",
+      "MTHS112",
+      "MTHS123"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS115",
+    "Prerequisite": [
+      "MTHS119"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS121",
+    "Prerequisite": [
+      "MTHS111",
+      "MTHS123",
+      "OF 102",
+      "WISS113",
+      "WISS123",
+      "MTHS111",
+      "MTHS124",
+      "OF 12",
+      "MTHS114"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS125",
+    "Prerequisite": [
+      "MTHS115",
+      "MTHS129",
+      "MTHS119"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS171",
+    "Prerequisite": [
+      "I 12"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS172",
+    "Prerequisite": [
+      "MTHS171"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS173",
+    "Prerequisite": [
+      "OF 12"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS174",
+    "Prerequisite": [
+      "MTHS173"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "MTHS175",
+    "Prerequisite": [
+      "OF 16",
+      "MTHS111",
+      "MTHS121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MTHS211",
+    "Prerequisite": [
+      "OF 8",
+      "MTHS171",
+      "MTHS172"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "MTHS111",
+    "Prerequisite": [
+      "MTHS121"
+    ],
+    "Credit": "121"
+  },
+  {
+    "Code": "MTHS212",
+    "Prerequisite": [
+      "OF 8"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "MTHS171",
+    "Prerequisite": [
+      "MTHS172"
+    ],
+    "Credit": "172"
+  },
+  {
+    "Code": "MTHS221",
+    "Prerequisite": [
+      "MTHS211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "MTHS222",
+    "Prerequisite": [
+      "MTHS212"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "MTHS211",
+    "Prerequisite": [],
+    "Credit": "8"
+  },
+  {
+    "Code": "MTHS224",
+    "Prerequisite": [
+      "MTHS212",
+      "MTHS111"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "MTHS112",
+    "Prerequisite": [
+      "MTHS225",
+      "OF 8",
+      "MTHS113",
+      "MTHS123"
+    ]
+  },
+  {
+    "Code": "MTHS311",
+    "Prerequisite": [
+      "MTHS221",
+      "MTHS212"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MTHS312",
+    "Prerequisite": [
+      "MTHS221",
+      "MTHS223",
+      "MTHS211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MTHS321",
+    "Prerequisite": [
+      "MTHS221",
+      "MTHS212"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MTHS322",
+    "Prerequisite": [
+      "MTHS222"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "WISS111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "WISS113",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "WISS121",
+    "Prerequisite": [
+      "WISS111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "WISS123",
+    "Prerequisite": [
+      "WISS113"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "NCHE111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "MCHE115",
+    "Prerequisite": [
+      "NCHE121"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "NCHE171",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "NCHE172",
+    "Prerequisite": [
+      "NCHE171",
+      "NCHE111",
+      "NCHE121",
+      "NCHE211",
+      "OF 8",
+      "NCHE171",
+      "NCHE172",
+      "NCHE111",
+      "NCHE121",
+      "NCHE171",
+      "NCHE172",
+      "NCHE212",
+      "MTHS111",
+      "MTHS121",
+      "MTHS171",
+      "MTHS172",
+      "MTHS114",
+      "MTHS124",
+      "NCHE111",
+      "NCHE121",
+      "NCHE213",
+      "NCHE171",
+      "NCHE172",
+      "NCHE111",
+      "NCHE121",
+      "NCHE221",
+      "OF 8",
+      "NCHE171",
+      "NCHE172",
+      "NCHE111",
+      "NCHE121",
+      "NCHE222",
+      "OF 8",
+      "NCHE171",
+      "NCHE172"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "NCHE211",
+    "Prerequisite": [
+      "NCHE311",
+      "OF 16",
+      "NCHE212",
+      "NCHE312",
+      "NCHE212",
+      "NCHE321",
+      "NCHE221",
+      "NCHE322",
+      "NCHE222",
+      "NPHY111",
+      "NPHY111",
+      "NPHY121",
+      "MTHS111"
+    ]
+  },
+  {
+    "Code": "NPHY123",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "NPHY124",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "NPHY171",
+    "Prerequisite": [
+      "I 12",
+      "NPHY171"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "NPHY172",
+    "Prerequisite": [
+      "MTHS171"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "FSKS113",
+    "Prerequisite": [
+      "FSKS113"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "FSKS123",
+    "Prerequisite": [
+      "OF 12",
+      "NPHY111",
+      "NPHY111",
+      "NPHY171",
+      "NPHY211",
+      "NPHY121",
+      "NPHY172",
+      "MTHS111",
+      "NPHY111",
+      "NPHY171",
+      "NPHY212",
+      "NPHY121",
+      "NPHY172",
+      "MTHS111",
+      "MTHS121",
+      "NPHY212"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "NPHY221",
+    "Prerequisite": [
+      "MTHS211",
+      "NPHY212",
+      "NPHY222",
+      "MTHS211",
+      "NPHY211"
+    ],
+    "Credit": "8"
+  },
+  {
+    "Code": "NPHY311",
+    "Prerequisite": [
+      "MTHS211",
+      "NPHY212",
+      "NPHY221",
+      "NPHY222",
+      "MTHS211"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "MTHS221",
+    "Prerequisite": [
+      "NPHY312",
+      "OF 16",
+      "MTHS223",
+      "MTHS212",
+      "MTHS222",
+      "MTHS224"
+    ]
+  },
+  {
+    "Code": "NPHY321",
+    "Prerequisite": [
+      "NPHY312"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "NPHY322",
+    "Prerequisite": [
+      "NPHY312"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "OMSA422",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "OMSA423",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "OMSE411",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "OMSE474",
+    "Prerequisite": [],
+    "Credit": "32"
+  },
+  {
+    "Code": "OMWP411",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "PLKS111",
+    "Prerequisite": [
+      "PLKS122",
+      "PLKS111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "PLKS171",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "PLKS172",
+    "Prerequisite": [
+      "PLKS171"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "PLKS111",
+    "Prerequisite": [
+      "PLKS211",
+      "PLKS122"
+    ]
+  },
+  {
+    "Code": "PLKS111",
+    "Prerequisite": [
+      "PLKS223",
+      "PLKS122"
+    ]
+  },
+  {
+    "Code": "PLKS314",
+    "Prerequisite": [
+      "PLKS312",
+      "PLKS223"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "PLKS315",
+    "Prerequisite": [
+      "PLKS223",
+      "PLKS221"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "PLKS321",
+    "Prerequisite": [
+      "PLKS223",
+      "PLKS211"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "PLKS324",
+    "Prerequisite": [
+      "PLKN323",
+      "PLKS223"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "SANL225",
+    "Prerequisite": [
+      "SBSS111",
+      "SBSS121"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBES212",
+    "Prerequisite": [
+      "GEOG111",
+      "SBES212"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBES313",
+    "Prerequisite": [
+      "SBSS223",
+      "SBES212",
+      "ECON112"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBRS221",
+    "Prerequisite": [
+      "ECON211",
+      "SBRS221",
+      "ECON325"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBRS313",
+    "Prerequisite": [
+      "MTHS114",
+      "STTN111",
+      "STTN124"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBRS411",
+    "Prerequisite": [
+      "SBRS313"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBSS111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "SBSS121",
+    "Prerequisite": [
+      "SBSS111",
+      "SBSS223"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "SBES212",
+    "Prerequisite": [
+      "SBSS223",
+      "SBSS313",
+      "GEOG211",
+      "SBES313"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBSS321",
+    "Prerequisite": [
+      "SBRS313",
+      "SBSS313"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBSS323",
+    "Prerequisite": [
+      "SBRS313",
+      "SBSS412",
+      "SRSK323",
+      "SBSS323",
+      "SBES313"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBSS414",
+    "Prerequisite": [
+      "SBSS321",
+      "SANL225"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBSS424",
+    "Prerequisite": [
+      "SBSS412",
+      "SBSS414",
+      "SBSS313",
+      "SBRS313",
+      "SBES313",
+      "SBSS321",
+      "SBSS323"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SBSS472",
+    "Prerequisite": [
+      "SECO321",
+      "SRSK323",
+      "GEOG311",
+      "ECON322",
+      "WVNS211",
+      "WVNS221",
+      "SANL225"
+    ],
+    "Credit": "32"
+  },
+  {
+    "Code": "SECO321",
+    "Prerequisite": [
+      "SBSS313",
+      "SBSS323"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SGSS414",
+    "Prerequisite": [
+      "WVNS211",
+      "WVNS221",
+      "SBSS313"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SRSK323",
+    "Prerequisite": [
+      "GEOG311",
+      "SBES313",
+      "SBSS321"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "SSBP421",
+    "Prerequisite": [
+      "SBSS414",
+      "SBSS412",
+      "SBRS411"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "STTN111",
+    "Prerequisite": [
+      "STTN115",
+      "STTN111",
+      "STTN121",
+      "STTN115",
+      "STTN122"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "STTN122",
+    "Prerequisite": [
+      "STTN111",
+      "STTN124",
+      "STTN115",
+      "STTN122",
+      "STTN111",
+      "MTHS111",
+      "STTN115",
+      "STTN125",
+      "MTHS111",
+      "STTN122",
+      "MTHS111"
+    ],
+    "Credit": "12"
+  },
+  {
+    "Code": "STTK214",
+    "Prerequisite": [
+      "STTN125",
+      "MTHS121",
+      "STTN215",
+      "STTF215",
+      "STTF225",
+      "MTHS121",
+      "STTN225",
+      "STTN215",
+      "STTK312",
+      "MTHS121",
+      "STTN316",
+      "STTN225",
+      "STTN317",
+      "STTN225",
+      "STTN326",
+      "STTN225",
+      "STTN327",
+      "STTN317"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "STTF115",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "STTF125",
+    "Prerequisite": [
+      "STTF115"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "STTF215",
+    "Prerequisite": [
+      "STTF125",
+      "STTF215"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "STTF225",
+    "Prerequisite": [
+      "MTHS111"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "TMBP111",
+    "Prerequisite": [],
+    "Credit": "12"
+  },
+  {
+    "Code": "TMBP211",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "TMBP221",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "TMBP312",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "TMBP313",
+    "Prerequisite": [],
+    "Credit": "16"
+  },
+  {
+    "Code": "TMBP321",
+    "Prerequisite": [
+      "TMBP322",
+      "WVCS223",
+      "WVLS317",
+      "WVES222",
+      "WVES312"
+    ],
+    "Credit": "16"
+  },
+  {
+    "Code": "WVNS211",
+    "Prerequisite": []
+  },
+  {
+    "Code": "WVNS221",
+    "Prerequisite": []
+  }
+]
